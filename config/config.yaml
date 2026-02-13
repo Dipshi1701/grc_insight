@@ -1,0 +1,24 @@
+api:
+  auth_url: https://api.inbenta.io/v1/auth
+  base_url: https://api-reporting-us.inbenta.io/prod  # Fallback if auth doesn't return reporting URL
+  key: ${INBENTA_API_KEY}
+  secret: ${INBENTA_API_SECRET}  # For auth only
+  signature_key: ${INBENTA_SIGNATURE_KEY}  # For HMAC signing (different from secret!)
+  rate_limit: 800  # requests per minute
+  token_refresh_buffer: 120  # seconds before expiry to refresh
+  
+filters:
+  excluded_sources:
+    - dev
+    - viiv
+    - GSK_MEDICAL
+    - blenrep
+    - sotrovimab
+  environment: production
+  
+database:
+  path: data/grc_pipeline.db
+  
+output:
+  report_dir: data/reports
+  format: xlsx  # Phase 1: simple xlsx

@@ -1,0 +1,2076 @@
+﻿Row Labels,Count of User question,Labels,Source,Category,Classification,Quality,Answer available in the KB?,Escalated Sessions,Ratings assessment,Date,Time
+000839e4d5c62f879b231d1a74cbbdd5,1,Session,TrelegyHCP,,,Unsuccessful,,,,18/01/2026,11:39:26
+What is the copay for elegy using Aetna Medicare insurance?,1,Question,,RC,Valid,,,,,,
+"- Savings Offer Eligibility (ID: 771, External: No, Clicks: 0)
+- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 0)
+- Questions about pharmacy processing a savings offer (ID: 1182, External: No, Clicks: 1)",1,Answer,,,,Inaccurate,,,,,
+Rating: No,1,Rating,,,,,,,,,
+007fadcef0adb41304c74e887e2f5c93,1,Session,Advair,,,Success,,,,22/01/2026,16:09:07
+Coupon,1,Question,,FA,Valid,,,,,,
+"'- Questions about pharmacy processing a savings offer (ID: 1182, External: No, Clicks: 0)
+- Savings offer will not submit, not received or lost (ID: 1183, External: No, Clicks: 0)
+- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+00a35e5953ab0620abf4aebeaa28aed0,1,Session,Exdensur,,,Unsuccessful,,,,19/01/2026,16:10:54
+Is exdensure inj for asthma approved and prescribed,1,Question,,PQ,Valid,,,,,,
+0,1,Answer,,,,No Answer,,,,,
+,1,Rating,,,,,,,,,
+00c3043beba22f41b8f23cc00cbc0f06,1,Session,NucalaHCP,,,Success,,,,20/01/2026,15:00:13
+"Renee Hester, a patient in Tulsa OK at Flexcare has had her doctor authorize another year of the Nucala Copay Program. But they have cancelled her appointment for 1/26 due to the paperwork not being finished since it was sent to you. Can this be rushed?",1,Question,,RC,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+01ba9aaa7cd3a2562663013c7d88b72a,2,Session,Trelegy,,,Success,,,,23/01/2026,21:48:41
+Can you get trilogy in liquid form to use in your nebulizer?,1,Question,,PQ,Valid,,,,,,
+"'- Request for Medical Advice / Recommendation (ID: 1196, External: No, Clicks: 0)
+- Questions about GSK Patient Assistance Program (ID: 984, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+Is trilogy available to use in a nebulizer?,1,Question,,PQ,Valid,,,,,,
+"'- Request for Medical Advice / Recommendation (ID: 1196, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+0232bd66b2218a14ec184f014c1dd79c,1,Session,NucalaHCP,,,Success,,,,20/01/2026,13:54:01
+Do you have any coupons for this medication? I am looking for coupons for nucala,1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 0)
+- Together with NUCALA Follow-up Inquiries (ID: 1680, External: No, Clicks: 1)
+- What is NUCALA? (ID: 1737, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+0295ff4052e05ac9af8e91fa3bfcbfc0,1,Session,Contactus,,,Invalid,,,,24/01/2026,10:22:47
+i received berberine gummies that i did not order,1,Question,,N/A,Invalid,,,,,,
+"'- Questions about GSK Patient Assistance Program (ID: 984, External: No, Clicks: 1)",1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+02e0eed48cb6dd37fbfcb223832a01f4,4,Session,Contactus,,,Unsuccessful,,,,21/01/2026,10:09:53
+agent,2,Question,,LA,Valid,,,,,,
+"'- Chat with a Human (ID: 1, External: No, Clicks: 1)",2,Answer,,,,Accurate,,,,,
+,2,Rating,,,,,,,,,
+Defective trelegy,1,Question,,PQ,Valid,,,,,,
+"'- Inhaler Potential Product Quality Issue (ID: 1401, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+Rating: No,1,Rating,,,,,,,,,
+I have a seemingly defective inhaler,1,Question,,PQ,Valid,,,,,,
+"'- Potential Product Quality Issue (ID: 920, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+Rating: Yes,1,Rating,,,,,,,,,
+037adb15a635b891164a50f5569084b7,1,Session,Contactus,,,Unsuccessful,,,,21/01/2026,09:35:40
+"Hi this is Emilee with the Southeast District Health Department   I am reaching out regarding your W9   Could you please provide us with your W-9 form? We will need it to determine whether a 1099 form should be issued.   If you have any questions, please l",1,Question,,RC,Valid,,,,,,
+"'- Questions about GSK Patient Assistance Program (ID: 984, External: No, Clicks: 1)",1,Answer,,,,Inaccurate,,,,,
+,1,Rating,,,,,,,,,
+03ac19fe0f175b1f32ec2596c0dce613,2,Session,Shingrix,,,Unsuccessful,,,,19/01/2026,14:10:04
+?,1,Question,,N/A,Invalid,,,,,,
+0,1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+Looking for a pharmacy do get flu shot and covid vaccine,1,Question,,RC,Valid,,,,,,
+"'- Request for Medical Advice / Recommendation (ID: 1196, External: No, Clicks: 0)
+- If a patient 50 years or older already had shingles, can they still get vaccinated with SHINGRIX? (ID: 1192, External: No, Clicks: 0)
+- Is it ok for patients 50 years or older to receive SHINGRIX and a flu vaccination in the same visit? (ID: 1189, External: No, Clicks: 0)",1,Answer,,,,Inaccurate,,,,,
+,1,Rating,,,,,,,,,
+03e3f9553561c4adcea918521330a5c9,1,Session,Contactus,,,Success,,,,21/01/2026,10:24:04
+Can i get a little assisaceno with paying,1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+070cd8f03475e37e8a04cf278ecb1b77,1,Session,Contactus,,,Success,,,,20/01/2026,11:00:00
+Product broken,1,Question,,PQ,Valid,,,,,,
+"'- Potential Product Quality Issue (ID: 920, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+Rating: No,1,Rating,,,,,,,,,
+094b4443f918995a03d6c119e4f17779,1,Session,Nucala,,,Success,,,,24/01/2026,15:52:11
+"I accidentally deleted my copay card, I was wondering if i could get another copy of it",1,Question,,RC,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+0a2cf2b99c7475a313ee3c47a5c28a81,1,Session,Trelegy,,,Unsuccessful,,,,22/01/2026,14:29:38
+i am clicking Sign Up for trelegy savings card but nothing is happening,1,Question,,RC,Valid,,,,,,
+"'- Activating a Savings Offer (ID: 900, External: No, Clicks: 1)",1,Answer,,,,Inaccurate,,,,,
+,1,Rating,,,,,,,,,
+0b3c507e234f07ea2c01055d9d07fd36,1,Session,Trelegy,,,Success,,,,19/01/2026,10:25:39
+I have tried several times to get my savings information but I am not receiving it in my email,1,Question,,RC,Valid,,,,,,
+"'- Savings offer will not submit, not received or lost (ID: 1183, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+0ca09db0f39cbe524a24264af0368df9,1,Session,Benlysta,,,Success,,,,22/01/2026,18:33:56
+"Looking for a video for administering the prefilled syringe, not the auto injector",1,Question,,PQ,Valid,,,,,,
+"'- How to take BENLYSTA? (ID: 586, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+0cb2eec3b151af9b5c8ed4651b7a6d88,1,Session,Trelegy,,,Invalid,,,,19/01/2026,18:43:25
+Co-pay card,1,Question,,N/A,Invalid,,,,,,
+"'- Savings offer will not submit, not received or lost (ID: 1183, External: No, Clicks: 1)
+- Activating a Savings Offer (ID: 900, External: No, Clicks: 0)
+- Questions about pharmacy processing a savings offer (ID: 1182, External: No, Clicks: 0)",1,Answer,,,,,,,,,
+Rating: No,1,Rating,,,,,,,,,
+0cb5f90cb9ecbca81d3f4c17c2ffd200,1,Session,Exdensur,,,Unsuccessful,,,,21/01/2026,21:31:32
+what happens if someone takes more than perscribed,1,Question,,PQ,Valid,,,,,,
+0,1,Answer,,,,No Answer,,,,,
+,1,Rating,,,,,,,,,
+0d125a684c264e55b37c5cd6903ddd5e,1,Session,Contactus,,,Invalid,,,,23/01/2026,20:14:10
+Medicare advantage the same as medicare part d,1,Question,,N/A,Invalid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+0d345c73d355b66759fef7b627a657c3,7,Session,Blujepa,,,Success,,,,19/01/2026,13:21:28
+are you a human,1,Question,,N/A,Invalid,,,,,,
+"'- [""I'm a real piece of software, but I'm not a physical being. This means I don't have senses and feelings like you.""] (ID: 107, External: Yes, Clicks: 1)",1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+How does it work?,1,Question,,PQ,Valid,,,,,,
+"'- How does BLUJEPA work? (ID: 1731, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+Rating: No,1,Rating,,,,,,,,,
+how much does it cost,1,Question,,RC,Valid,,,,,,
+"'- What is the cost of my medicine or vaccine? (ID: 1198, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+i hurt my foot,1,Question,,N/A,Invalid,,,,,,
+0,1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+i took this and it was bad,1,Question,,PQ,Valid,,,,,,
+"'- Incorrect email address submitted for savings offer (ID: 1185, External: No, Clicks: 0)
+- Request for Medical Advice / Recommendation (ID: 1196, External: No, Clicks: 0)
+- Potential Product Quality Issue (ID: 920, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+what if i took this and i had massive pains in my leg,1,Question,,PQ,Valid,,,,,,
+0,1,Answer,,,,No Answer,,,,,
+,1,Rating,,,,,,,,,
+you love josh allen,1,Question,,N/A,Invalid,,,,,,
+0,1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+0d3dce5b6ec3849e0f14dc7791ed883b,1,Session,Trelegy,,,Success,,,,21/01/2026,21:02:54
+I’d love me to see if I can possibly receive a savings coupon for my 3 month prescription of Trelegy,1,Question,,FA,Valid,,,,,,
+"'- Questions about pharmacy processing a savings offer (ID: 1182, External: No, Clicks: 1)
+- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 0)
+- Savings offer will not submit, not received or lost (ID: 1183, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+0e11d45cfb84703049d812abe654a98e,1,Session,Contactus,,,Invalid,,,,19/01/2026,20:53:40
+The medicine i am using for my RVS Albuterol for my,1,Question,,N/A,Invalid,,,,,,
+"'- Questions about GSK Patient Assistance Program (ID: 984, External: No, Clicks: 1)",1,Answer,,,,,,,,,
+Rating: No,1,Rating,,,,,,,,,
+0e54bf1813c9ac27edfbf9da60c4310d,1,Session,Benlysta,,,Success,,,,18/01/2026,18:52:25
+How much is benlysta without insurance,1,Question,,RC,Valid,,,,,,
+"'- BENLYSTA Gateway for Cost, Insurance and Other Resources (ID: 1392, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+0f4a1957bf595e9be56a95912855b825,1,Session,Mybreo,,,Success,,,,23/01/2026,16:37:04
+do yall have a coupon for breo ?,1,Question,,FA,Valid,,,,,#N/A,#N/A
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+10eb99381a46eadc3e59545ac2087c8a,1,Session,Contactus,,,Success,,,,22/01/2026,11:02:56
+Human resources,1,Question,,RC,Valid,,,,,,
+"'- GSK Human Resources Service Center (ID: 944, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+Rating: No,1,Rating,,,,,,,,,
+120354db7774918af197b9d40422e6ad,2,Session,Arexvy,,,Success,,,,22/01/2026,12:32:48
+I have COPD and I've been reading about this RSV thing,1,Question,,PQ,Valid,,,,,,
+"'- What is Respiratory Syncytial Virus Infection (RSV)? (ID: 1522, External: No, Clicks: 0)
+- Request for Medical Advice / Recommendation (ID: 1196, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+Rating: No,1,Rating,,,,,,,,,
+"symptoms crackling sound in chest, deep caugh, green mucus, hard time breathing with little walking excursion",1,Question,,PQ,Valid,,,,,,
+0,1,Answer,,,,No Answer,,,,,
+,1,Rating,,,,,,,,,
+1208f6d54f90adc4adbffa78ddccee1f,1,Session,NucalaHCP,,,Success,,,,23/01/2026,17:13:00
+I used to take Nutella but now my jobs have changed and I have no insurance coverage. I am wondering how to apply for this program again?,1,Question,,RC,Valid,,,,,,
+"'- Together with NUCALA Follow-up Inquiries (ID: 1680, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+12a13d6d451c553018dcfc8e1beee6ee,1,Session,TrelegyHCP,,,Success,,,,19/01/2026,16:05:41
+Getting help with Trelegy,1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)
+- Storage recommendations for TRELEGY ELLIPTA (ID: 1087, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+12de04b1c694e0f7362046da05e0e977,1,Session,Trelegy,,,Invalid,,,,23/01/2026,12:14:43
+Copay card,1,Question,,N/A,Invalid,,,,,,
+"'- Savings offer will not submit, not received or lost (ID: 1183, External: No, Clicks: 0)
+- Activating a Savings Offer (ID: 900, External: No, Clicks: 1)
+- Questions about pharmacy processing a savings offer (ID: 1182, External: No, Clicks: 0)",1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+14506f9d87b5d3ac007c3fb8aac4e410,1,Session,Benlysta,,,Unsuccessful,,DRLC,,22/01/2026,10:25:01
+escalate to agent,1,Question,,LA,Valid,,,,,,
+"'- Chat with a Human (ID: 1, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+15c439c3f687c108cb8efcefc1b3e605,1,Session,Trelegy,,,Success,,,,21/01/2026,15:41:52
+Monthly what is the maximum amount that the copay program helps with to cover costs my insurance doesn’t not pay,1,Question,,RC,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+1653316c7cc9ff7d288dec7a665481e6,1,Session,Contactus,,,Success,,,,21/01/2026,07:08:11
+What is email to get form for assistant,1,Question,,RC,Valid,,,,,,
+"'- Questions about GSK Patient Assistance Program (ID: 984, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+1660fb62356ee4413aeb276927695f7e,2,Session,Exdensur,,,Invalid,,,,23/01/2026,15:29:46
+I need too talk toabout symbicort 160/4.5,1,Question,,N/A,Invalid,,,,,,
+0,1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+is this symbicort co.,1,Question,,N/A,Invalid,,,,,,
+0,1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+16657abe2478e77cd6da5149f7865752,1,Session,Contactus,,,Success,,,,22/01/2026,17:47:04
+"I received a coupon in my email, but my Pharmacy needs the ID# and it's not listed",1,Question,,RC,Valid,,,,,,
+"'- Savings offer will not submit, not received or lost (ID: 1183, External: No, Clicks: 0)
+- Questions about pharmacy processing a savings offer (ID: 1182, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+168febe79400f88e993eb54256809bb0,2,Session,Mybreo,,,Unsuccessful,,,,19/01/2026,14:39:41
+How can I avoid the high deductible for my Breo,1,Question,,FA,Valid,,,,,,
+"'- What is BREO ELLIPTA? (ID: 1612, External: No, Clicks: 0)
+- How to use your Inhaler (ID: 918, External: No, Clicks: 0)
+- Dosing instructions for BREO ELLIPTA (ID: 1076, External: No, Clicks: 0)",1,Answer,,,,Inaccurate,,,,,
+,1,Rating,,,,,,,,,
+How can I recieve help purchasing my Breo,1,Question,,FA,Valid,,,,,,
+"'- What is BREO ELLIPTA? (ID: 1612, External: No, Clicks: 0)
+- How to use your Inhaler (ID: 918, External: No, Clicks: 0)
+- Dosing instructions for BREO ELLIPTA (ID: 1076, External: No, Clicks: 0)",1,Answer,,,,Inaccurate,,,,,
+,1,Rating,,,,,,,,,
+171df45868a4d370c5891a260691856e,1,Session,Contactus,,,Success,,,,20/01/2026,23:24:52
+I am looking for advair discus coupon,1,Question,,FA,Valid,,,,,,
+"'- Rinsing mouth after ADVAIR DISKUS use to reduce risk of thrush (ID: 1043, External: No, Clicks: 0)
+- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)
+- Why is a savings offer not available? (ID: 952, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+17f7cc30334e4debf024e8f6fa17e77c,2,Session,Contactus,,,Unsuccessful,,,,20/01/2026,08:25:11
+MenB potential exposure to light,1,Question,,PQ,Valid,,,,,#N/A,#N/A
+0,1,Answer,,,,No Answer,,,,,
+,1,Rating,,,,,,,,,
+MenB was potentially exposed to the light of the refrigerator. It can not be confirmed but the top of the box was ripped off,1,Question,,PQ,Valid,,,,,,
+0,1,Answer,,,,No Answer,,,,,
+,1,Rating,,,,,,,,,
+184b9b32aa2170967e9cbbc2a6030b40,4,Session,Blujepa,,,Invalid,,,,19/01/2026,13:22:24
+hi,3,Question,,N/A,Invalid,,,,,,
+"'- [""Hello! Is there anything I can do for you?""] (ID: 25, External: Yes, Clicks: 1)",1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+"'- [""Hi! Tell me. What can I do for you?""] (ID: 22, External: Yes, Clicks: 1)",2,Answer,,,,,,,,,
+,2,Rating,,,,,,,,,
+how is it going,1,Question,,N/A,Invalid,,,,,,
+"'- [""Hi there! I'd like to help you, so feel free to ask whatever you want!""] (ID: 26, External: Yes, Clicks: 1)",1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+18c3a42c63b18e04c78cb3ed64b8eae4,1,Session,Trelegy,,,Success,,,,22/01/2026,12:52:27
+I haven’t received my savings card,1,Question,,RC,Valid,,,,,,
+"'- Savings offer will not submit, not received or lost (ID: 1183, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+Rating: No,1,Rating,,,,,,,,,
+18f3351b57f30237171c14452bd8c921,3,Session,Benlysta,,,Unsuccessful,,,,24/01/2026,14:30:29
+Can I take Choline while on Benlysta?,1,Question,,PQ,Valid,,,,,,
+"'- How to take BENLYSTA? (ID: 586, External: No, Clicks: 0)
+- How long should I take BENLYSTA? (ID: 1462, External: No, Clicks: 0)
+- How will I receive BENLYSTA? (ID: 1482, External: No, Clicks: 0)",1,Answer,,,,Inaccurate,,,,,
+,1,Rating,,,,,,,,,
+Can i take the supplement Choline while on benlysta,1,Question,,PQ,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Inaccurate,,,,,
+,1,Rating,,,,,,,,,
+Neither,1,Question,,N/A,Invalid,,,,,,
+0,1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+192539fd936c3b38c5114335475d87f3,3,Session,Contactus,,,Unsuccessful,,,,20/01/2026,14:37:15
+agent,2,Question,,LA,Valid,,,,,,
+"'- Chat with a Human (ID: 1, External: No, Clicks: 1)",2,Answer,,,,Accurate,,,,,
+,2,Rating,,,,,,,,,
+My injection malfunctioned and I am running short,1,Question,,PQ,Valid,,,,,,
+"'- Potential Product Quality Issue (ID: 920, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+Rating: Yes,1,Rating,,,,,,,,,
+1abe252c2c560815534b430f31ae978b,1,Session,Contactus,,,Unsuccessful,,,,19/01/2026,11:13:38
+My trelegy ellipsis 100 mcg/62.5mcg/25 mcg  is not working I don’t feel the medicine going into my lungs with this inhaler after using it for 8 days and I’m having to use my rescue inhaler more ofte,1,Question,,PQ,Valid,,,,,,
+"- Use of a Rescue Inhaler with TRELEGY ELLIPTA (ID: 1090, External: No, Clicks: 0)
+- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 0)
+- Questions about GSK Patient Assistance Program (ID: 984, External: No, Clicks: 0)",1,Answer,,,,Inaccurate,,,,,
+,1,Rating,,,,,,,,,
+1c14fb6767d3cd63b67da53101c7bcf1,1,Session,Mybreo,,,Success,,,,20/01/2026,13:07:33
+I need to know if there’s a program that helps pay for Breo,1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)
+- Questions about GSK Patient Assistance Program (ID: 984, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+1c5d3c3427f96fc314e80bffb415eb05,1,Session,Benlysta,,,Success,,,,22/01/2026,13:52:45
+finantial assistance,1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+1cfa7ef599f353472d003fbb167241f7,1,Session,Nucala,,,Unsuccessful,,,,21/01/2026,17:57:35
+I'm on medicaid and I have COPD severe need to see if I can get for free,1,Question,,FA,Valid,,,,,,
+"'- Together with NUCALA Follow-up Inquiries (ID: 1680, External: No, Clicks: 1)",1,Answer,,,,Inaccurate,,,,,
+,1,Rating,,,,,,,,,
+1d1d1d78adfb86bb120f8089edf24374,1,Session,Contactus,,,Unsuccessful,,,,19/01/2026,15:24:25
+I got the first shingrix shot today and I don't have health insurance can you all help with that financially and pay for next one?,1,Question,,FA,Valid,,,,,,
+"'- SHINGRIX Medicare coverage and where to receive it (ID: 1107, External: No, Clicks: 1)",1,Answer,,,,Inaccurate,,,,,
+,1,Rating,,,,,,,,,
+1e75d61966a5ee60bbb4ecfa5d73bae1,1,Session,Contactus,,,Success,,,,22/01/2026,10:12:28
+Like to get an update regarding Trelegy sample,1,Question,,RC,Valid,,,,,,
+"'- HCP Sample Request (ID: 1650, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+1ec2891c051f3ec2937ad46885628537,1,Session,Trelegy,,,Success,,,,19/01/2026,18:19:22
+how much is left on my card?,1,Question,,RC,Valid,,,,,,
+"'- Questions about pharmacy processing a savings offer (ID: 1182, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+Rating: No,1,Rating,,,,,,,,,
+205e9269e15764bc7fa8d095646e178e,1,Session,Contactus,,,Success,,,,20/01/2026,19:26:25
+I want to avail GSK manufacturer coupon for Arrnuity Ellipta,1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 0)
+- Questions about GSK Product Availability (ID: 87, External: No, Clicks: 0)
+- Questions about pharmacy processing a savings offer (ID: 1182, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+208da0d06ec599028f4ca0d201e92236,2,Session,Contactus,,,Success,,,,23/01/2026,15:34:17
+advair inhaler issues,1,Question,,PQ,Valid,,,,,,
+"'- Inhaler Potential Product Quality Issue (ID: 1401, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+I just got a replacement Advair inhaler from you and it isn't deploying properly,1,Question,,PQ,Valid,,,,,,
+0,1,Answer,,,,No Answer,,,,,
+,1,Rating,,,,,,,,,
+21f6545505e371c8e6dfd2e04fe6cf05,1,Session,Contactus,,,Unsuccessful,,,,22/01/2026,13:10:42
+what information do I need to enroll a patient in ViiV connect?,1,Question,,RC,Valid,,,,,,
+0,1,Answer,,,,No Answer,,,,,
+,1,Rating,,,,,,,,,
+22b4cfb5b669af7696a5daae17ca5a5e,1,Session,Trelegy,,,Success,,,,22/01/2026,10:23:54
+where is my ID #?,1,Question,,RC,Valid,,,,,,
+"'- Questions about pharmacy processing a savings offer (ID: 1182, External: No, Clicks: 1)
+- TRELEGY ELLIPTA Number of Doses Explanation (ID: 1197, External: No, Clicks: 0)
+- Questions about GSK Patient Assistance Program (ID: 984, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+Rating: Yes,1,Rating,,,,,,,,,
+22fb0ce23662c364800ac61ee455478b,1,Session,Advair,,,Success,,,,23/01/2026,20:21:58
+Could you tell me a pharmacy that had advise in stock,1,Question,,RC,Valid,,,,,,
+"'- Questions about GSK Product Availability (ID: 87, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+23e28e0cd47ca32250ea3b8116a01713,2,Session,Contactus,,,Unsuccessful,,,,21/01/2026,10:15:29
+"We are a Pediatrics office, and do not offer RSV vaccines here. A patient would like to know where she can take her child to receive the RSV vaccine. Can you help with this?",1,Question,,RC,Valid,,,,,,
+0,1,Answer,,,,No Answer,,,,,
+,1,Rating,,,,,,,,,
+Where can an infant patient be taken to get the RSV vaccine?,1,Question,,PQ,Valid,,,,,,
+0,1,Answer,,,,No Answer,,,,,
+,1,Rating,,,,,,,,,
+240d87cad92e7eb129596fb5b685d033,1,Session,Contactus,,,Success,,,,21/01/2026,19:27:56
+I Can't afford Trelegy. You guys are ripping people off and charging WAY too much.,1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)
+- What is the cost of my medicine or vaccine? (ID: 1198, External: No, Clicks: 0)
+- Inhaler Potential Product Quality Issue (ID: 1401, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+24e4e02866e1989ee778d37595a97897,2,Session,Trelegy,,,Success,,,,19/01/2026,08:42:37
+How do I renew my 2025 card,1,Question,,FA,Valid,,,,,,
+"'- Questions about pharmacy processing a savings offer (ID: 1182, External: No, Clicks: 1)",1,Answer,,,,Inaccurate,,,,,
+,1,Rating,,,,,,,,,
+"I got my savings coupon, but I need an ID# in order for the pharmacy to use",1,Question,,RC,Valid,,,,,,
+"'- Questions about pharmacy processing a savings offer (ID: 1182, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+26bbde36f56dd98fabfec8ca3e366ecb,1,Session,Contactus,,,Success,,,,22/01/2026,09:56:28
+shingrix -- two doses -- are the doses identical?,1,Question,,PQ,Valid,,,,,,
+"'- Is there a difference between the first and second dose of SHINGRIX? (ID: 1128, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+Rating: Yes,1,Rating,,,,,,,,,
+2787e8e4ce4cc97bf2be649bd8f8b526,1,Session,NucalaHCP,,,Success,,,,21/01/2026,18:02:46
+Can I get free nucala if I am on Medicaid,1,Question,,FA,Valid,,,,,,
+"'- Together with NUCALA Information for Cost, Insurance and Other Resources (ID: 1314, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+27db526254a67dc2f2ea814382e45bd7,1,Session,Contactus,,,Unsuccessful,,,,19/01/2026,16:26:51
+"i signed up for a coupon.  i was emailed the info, but the email was missing an ID number.  my pharmacy says this is required.",1,Question,,RC,Valid,,,,,,
+"'- Savings offer will not submit, not received or lost (ID: 1183, External: No, Clicks: 1)",1,Answer,,,,Inaccurate,,,,,
+,1,Rating,,,,,,,,,
+2803e2a17d6f6633c53e295209ee2e23,1,Session,Trelegy,,,Success,,,,23/01/2026,10:28:23
+I need to get coupons for trilegy for a year I can't afford to pay for the copay,1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 0)
+- Questions about pharmacy processing a savings offer (ID: 1182, External: No, Clicks: 1)
+- Savings offer will not submit, not received or lost (ID: 1183, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+2aeda90ea4542062897cfc54bb250c1f,1,Session,Contactus,,,Unsuccessful,,,,18/01/2026,02:11:31
+"I cannot take the generic of Advair Diskus, how can I get the brand name",1,Question,,RC,Valid,,,,,,
+"'- Questions about the availability of generic medicines (ID: 1251, External: No, Clicks: 1)",1,Answer,,,,Inaccurate,,,,,
+Rating: No,1,Rating,,,,,,,,,
+2b4ff89e26884b8668b2cca812102e2e,1,Session,Contactus,,,Unsuccessful,,,,23/01/2026,06:40:57
+"I am receiving Trelegy through your assistance program and it is time for the 2 quarter round, but unfortunately nothing has arrived and i only have 10 puffs left. Is there a tracking number?",1,Question,,RC,Valid,,,,,,
+"'- How to use TRELEGY ELLIPTA (ID: 1616, External: No, Clicks: 1)",1,Answer,,,,Inaccurate,,,,,
+Rating: No,1,Rating,,,,,,,,,
+2b68ba5224aa33ff8fe7cd902bec04d7,1,Session,Trelegy,,,Success,,,,22/01/2026,15:09:54
+I was approved for the coupon but never received it in my inbox or via text message,1,Question,,RC,Valid,,,,,,
+"'- Savings offer will not submit, not received or lost (ID: 1183, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+2f5e20327d8cf7d45af54fe61584ff1b,1,Session,Shingrix,,,Invalid,,,,22/01/2026,13:25:21
+Trying to check what vaccines I haven't gotten? Can you help?,1,Question,,N/A,Invalid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 0)
+- Questions about GSK Product Availability (ID: 87, External: No, Clicks: 0)
+- SHINGRIX Medicare coverage and where to receive it (ID: 1107, External: No, Clicks: 1)",1,Answer,,,,,,,,,
+Rating: No,1,Rating,,,,,,,,,
+2f792ca11d81f08780c649b28465f802,1,Session,Trelegy,,,Success,,,,23/01/2026,12:11:37
+I have a prescription but it cost $650.00 and I can't afford it but I need it to help with my COPD.,1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+304a2acf87267d7a0af1b537ccd3a953,1,Session,Contactus,,,Success,,,,21/01/2026,18:05:57
+Is my application approved?,1,Question,,RC,Valid,,,,,,
+"'- Questions about GSK Patient Assistance Program (ID: 984, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+3174ae298e39b1592210924f2f1997a5,3,Session,Nucala,,,Success,,,,21/01/2026,11:48:42
+I need my co-pay card information,1,Question,,FA,Valid,,,,,,
+"'- Together with NUCALA Follow-up Inquiries (ID: 1680, External: No, Clicks: 0)
+- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+I need to get my co-pay assistance card number,1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+No,1,Question,,N/A,Invalid,,,,,,
+"'- [""It's okay, I will stay here answering more questions.""] (ID: 70, External: Yes, Clicks: 1)",1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+321c0899f6f0747792a6dc3eca3a04bd,3,Session,Contactus,,,Success,,,,19/01/2026,19:44:40
+Coupon not working,1,Question,,RC,Valid,,,,,,
+"'- Questions about pharmacy processing a savings offer (ID: 1182, External: No, Clicks: 0)
+- Savings offer will not submit, not received or lost (ID: 1183, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+Rating: No,1,Rating,,,,,,,,,
+"I'm having trouble using my coupon, keeps getting kicked back saying i have goverment insurance.",1,Question,,RC,Valid,,,,,,
+"- Savings Offer Eligibility (ID: 771, External: No, Clicks: 0)
+- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 0)
+- Questions about pharmacy processing a savings offer (ID: 1182, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+Those do not help,1,Question,,N/A,Invalid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+33f4955cbdeacf88db350b85829371e2,1,Session,Mybreo,,,Success,,,,24/01/2026,07:24:02
+My son needs his breo and cost $399 is there cupon,1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+3424112681261dbaaa0505450c23234b,1,Session,Mybreo,,,Invalid,,,,20/01/2026,14:45:51
+Copay card,1,Question,,N/A,Invalid,,,,,,
+"'- Savings offer will not submit, not received or lost (ID: 1183, External: No, Clicks: 1)
+- Activating a Savings Offer (ID: 900, External: No, Clicks: 0)
+- Questions about pharmacy processing a savings offer (ID: 1182, External: No, Clicks: 0)",1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+35061a934789095c2b7ee571b47d96aa,2,Session,Contactus,,,Success,,,,18/01/2026,12:13:07
+"I visisted that website, the copay  ard it currently has is what my son has/had, and the website says it expired 2025",1,Question,,FA,Valid,,,,,,
+"'- Savings offer will not submit, not received or lost (ID: 1183, External: No, Clicks: 1)",1,Answer,,,,Inaccurate,,,,,
+Rating: No,1,Rating,,,,,,,,,
+"My son is 12, his copay card for Advair expired 12/31/2025. are there any coupon cards for 2026?",1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+354c719d6fd62fd782a74ae696f9ba04,2,Session,ArexvyHCP,,,Unsuccessful,,,,23/01/2026,08:08:11
+Indications,1,Question,,N/A,Invalid,,,,,,
+"'- Request for Medical Advice / Recommendation (ID: 1196, External: No, Clicks: 1)",1,Answer,,,,,,,,,
+Rating: Yes,1,Rating,,,,,,,,,
+What conditions is Arexvy approved to treat?,1,Question,,PQ,Valid,,,,,,
+0,1,Answer,,,,No Answer,,,,,
+,1,Rating,,,,,,,,,
+362f6fada90c5c78e61d1cf3cdd55463,1,Session,Trelegy,,,Success,,,,20/01/2026,12:45:30
+I want to save money on my trelegy,1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+3668f2389129c36b479d583bc54ed45e,1,Session,Contactus,,,Success,,,,24/01/2026,21:29:28
+"I'm after business hours and I can't afford  trelegy, I have medicare and Aetna , a medicare advantage plan, is there a savings program I could qualify for?",1,Question,,FA,Valid,,,,,,
+"'- What is TRELEGY ELLIPTA? (ID: 1294, External: No, Clicks: 0)
+- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+36927425aa65035bf2494c7c1718dc91,1,Session,Shingrix,,,Success,,,,22/01/2026,03:22:14
+"I don’t have insurance, Can I get this vaccine?",1,Question,,RC,Valid,,,,,,
+"'- SHINGRIX cost for uninsured patient and where to receive it (ID: 1528, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+Rating: No,1,Rating,,,,,,,,,
+36bfa9461344b109fd5bf7dc0a334b62,1,Session,Contactus,,,Success,,,,20/01/2026,16:08:12
+I have the coupon for Trelegy and for 3 months have paid $0. I just went to pick it up and they said it was $30.,1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+36f1f5b2eb6d1d930fc01af79846e963,1,Session,Arnuity,,,Success,,,,20/01/2026,10:43:21
+Coupon,1,Question,,FA,Valid,,,,,,
+"'- Questions about pharmacy processing a savings offer (ID: 1182, External: No, Clicks: 1)
+- Savings offer will not submit, not received or lost (ID: 1183, External: No, Clicks: 0)
+- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+3713159b860d1541410a7683b81aeae2,1,Session,Trelegy,,,Success,,,,21/01/2026,14:40:50
+I just enrolled in the savings card program. How long does it take to get the information in my email?,1,Question,,RC,Valid,,,,,,
+"'- Savings offer will not submit, not received or lost (ID: 1183, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+Rating: Yes,1,Rating,,,,,,,,,
+3936ff0fffc9b7350ee78831c55b740e,2,Session,Contactus,,,Unsuccessful,,,,19/01/2026,20:13:16
+AS01 for academic research,1,Question,,N/A,Invalid,,,,,,
+0,1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+How can I get the adjuvant AS01 for academic nonprofit research,1,Question,,RC,Valid,,,,,,
+0,1,Answer,,,,No Answer,,,,,
+,1,Rating,,,,,,,,,
+3a7a5663b0071d8548e5dacda64bd042,1,Session,TrelegyHCP,,,Success,,,,24/01/2026,00:41:10
+Coupons for Trelegy coverage,1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+3ad44a48b049b0fc2e47209aead64826,1,Session,Trelegy,,,Success,,,,18/01/2026,13:14:49
+Trelegy coupon was approved but never received,1,Question,,RC,Valid,,,,,,
+"'- Savings offer will not submit, not received or lost (ID: 1183, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+Rating: No,1,Rating,,,,,,,,,
+3aee2acfa85cf76fec92f3871e37ac61,1,Session,Shingrix,,,Success,,,,20/01/2026,20:27:02
+"I'd like to know if I had the first shot of the Shingrix vaccine and then had the second shot over a year later, is it still effective?",1,Question,,PQ,Valid,,,,,,
+"'- What should a patient do if their second dose of SHINGRIX is later than six months after receiving the first dose? (ID: 1191, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+Rating: Yes,1,Rating,,,,,,,,,
+3b8bdf2ac1929e6b71caeea6f9dec55e,1,Session,Contactus,,,Success,,,,21/01/2026,09:22:08
+I was looking to get an HFA sample inhaler to be used in clinic at the Cincinnati VA,1,Question,,RC,Valid,,,,,,
+"'- HCP Sample Request (ID: 1650, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+3ca6488173491452f4b28daed63ed6d8,1,Session,Contactus,,,Success,,,,20/01/2026,18:14:36
+I am an educator at the University of Colorado Hospital and I wanted to request Demo inhalers for educating our patients. We prescribe Advair and Ellipta inh,1,Question,,RC,Valid,,,,,,
+"'- Where can I get a demonstration device? (ID: 908, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+3cfe00d4f90d9b3254a13e995bccae36,1,Session,Mybreo,,,Unsuccessful,,,,24/01/2026,11:30:37
+How can I get prescription assistance for Breo Ellipta,1,Question,,FA,Valid,,,,,,
+"'- Request for Medical Advice / Recommendation (ID: 1196, External: No, Clicks: 1)",1,Answer,,,,Inaccurate,,,,,
+,1,Rating,,,,,,,,,
+3d97f8aae77d5b1346cd8b49f0f990ec,1,Session,Trelegy,,,Unsuccessful,,,,22/01/2026,19:29:30
+How can i get this do a doctor have to prescribe it?,1,Question,,PQ,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 0)
+- Questions about GSK Product Availability (ID: 87, External: No, Clicks: 0)
+- Request for GSK Product Prescribing Information (ID: 1160, External: No, Clicks: 1)",1,Answer,,,,Inaccurate,,,,,
+,1,Rating,,,,,,,,,
+3e0330208944dc6996fafee5d94bd983,1,Session,Trelegy,,,Success,,,,19/01/2026,11:52:17
+Im having trouble using my discount card..The pharmacy thinks its renewa?,1,Question,,RC,Valid,,,,,,
+"'- Savings offer will not submit, not received or lost (ID: 1183, External: No, Clicks: 0)
+- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 0)
+- Questions about pharmacy processing a savings offer (ID: 1182, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+3f8a1fdd4b2ababb00f2a1cde6e8f8bb,1,Session,Contactus,,,Success,,,,18/01/2026,11:01:16
+I have a coupon for Trelegy but it doesn’t work at my pharmacy.   Why not,1,Question,,RC,Valid,,,,,,
+"'- Questions about pharmacy processing a savings offer (ID: 1182, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+Rating: No,1,Rating,,,,,,,,,
+42008873de20797acb6d2fe24df0bb6d,1,Session,Nucala,,,Success,,,,20/01/2026,10:19:17
+Any trials for nrw patients,1,Question,,RC,Valid,,,,,,
+"'- Request to participate in a GSK clinical trial (ID: 916, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+44eeb91f02f711ba263d3d0026fc29e6,1,Session,Contactus,,,Unsuccessful,,,,20/01/2026,17:40:04
+I have a coupon for trelegy that I obtained from the gsk website and the pharmacy could not got it to go through. Who do I need to talk to,1,Question,,RC,Valid,,,,,,
+"'- Savings offer will not submit, not received or lost (ID: 1183, External: No, Clicks: 1)",1,Answer,,,,Inaccurate,,,,,
+,1,Rating,,,,,,,,,
+45246b939e9c914befdf9e9e1bd04c6b,2,Session,Trelegy,,,Success,,,,19/01/2026,10:55:59
+is that accurate,1,Question,,N/A,Invalid,,,,,,
+"'- How to use TRELEGY ELLIPTA (ID: 1616, External: No, Clicks: 0)
+- Inhaler Potential Product Quality Issue (ID: 1401, External: No, Clicks: 0)
+- Potential Product Quality Issue (ID: 920, External: No, Clicks: 0)",1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+My father usually pays 34 dollars to maybe 0 dollars on Trelegy but he tried to refill his perscription a few days ago at his local Walmart Pharmacy and they told him that it would cause 400 dollars for a 30 day supple,1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+45ccb18f6e95fc422750930beedda7d6,1,Session,Shingrix,,,Invalid,,,,23/01/2026,22:27:33
+My name is Joann,1,Question,,N/A,Invalid,,,,,,
+"- HCP Consentment Validation (ID: 1280, External: No, Clicks: 1)",1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+45ceb742129527d99a6bc579ecec4e59,1,Session,Benlysta,,,Success,,,,22/01/2026,14:08:57
+I NEED MY COPAY CARD INFORMATION,1,Question,,RC,Valid,,,,,#N/A,#N/A
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+47e66e87e8527056e8ac009fb6703550,2,Session,Benlysta,,,Unsuccessful,,,,21/01/2026,10:26:06
+Can i talk with a live agent,1,Question,,LA,Valid,,,,,,
+"'- Chat with a Human (ID: 1, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+trying to find out my copay card information,1,Question,,RC,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+484642da2496acc39a3b1b57a051c90f,1,Session,Trelegy,,,Invalid,,,,24/01/2026,02:50:24
+trelegy,1,Question,,N/A,Invalid,,,,,,
+"'- What is TRELEGY ELLIPTA? (ID: 1294, External: No, Clicks: 1)
+- Ingredients in TRELEGY ELLIPTA (ID: 1099, External: No, Clicks: 0)
+- How to use TRELEGY ELLIPTA (ID: 1616, External: No, Clicks: 0)",1,Answer,,,,,,,,,
+Rating: Yes,1,Rating,,,,,,,,,
+4847605fe744a91cbd896e1ca23ab2f1,1,Session,Trelegy,,,Success,,,,20/01/2026,09:32:01
+Didn’t receive my savings card in the email,1,Question,,RC,Valid,,,,,,
+"'- Savings offer will not submit, not received or lost (ID: 1183, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+49e0ada54e6e037eb2766d5bea2ad512,2,Session,Contactus,,,Unsuccessful,,,,22/01/2026,06:57:06
+Arthritis grip for inhaler,1,Question,,PQ,Valid,,,,,,
+0,1,Answer,,,,No Answer,,,,,
+,1,Rating,,,,,,,,,
+Looking for an arthritis adapter for Ventolin inhaler for one of my elderly patients,1,Question,,PQ,Valid,,,,,,
+0,1,Answer,,,,No Answer,,,,,
+,1,Rating,,,,,,,,,
+4a871f2a884ed59c8633dab5e929a943,1,Session,Shingrix,,,Invalid,,,,23/01/2026,18:26:00
+What is your name? What is your name,1,Question,,N/A,Invalid,,,,,,
+"'- HCP Consentment Validation (ID: 1280, External: No, Clicks: 1)",1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+4b2dfa41c2caaba9aef2e6e6f111825c,1,Session,Contactus,,,Success,,,,21/01/2026,13:18:12
+Trelegy samples follow up for Dr. Haseeb Rahman,1,Question,,RC,Valid,,,,,,
+"'- HCP Sample Request (ID: 1650, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+4b74519af92af0bd10ce6877e6b12efe,1,Session,Contactus,,,Success,,,,18/01/2026,12:32:17
+remove me from your mailing list,1,Question,,RC,Valid,,,,,#N/A,#N/A
+"'- Request to unsubscribe from GSK promotions (ID: 917, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+4bcfd2d3af62656710cd5ed5527c6a6c,2,Session,Trelegy,,,Success,,,,19/01/2026,18:44:13
+Are there ways to get more affordable pricing?  My husband is on Medicare and disabled with early onset Alzheimer's.,1,Question,,FA,Valid,,,,,,
+0,1,Answer,,,,No Answer,,,,,
+,1,Rating,,,,,,,,,
+Patient assistance,1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+4be956a44d11f0e76631d58637a30424,2,Session,Contactus,,,Unsuccessful,,,,20/01/2026,22:23:06
+please call the GSK PAP at 1-866-728-4368 for help to identify other sources of proof.,1,Question,,RC,Valid,,,,,,
+0,1,Answer,,,,No Answer,,,,,
+,1,Rating,,,,,,,,,
+What other proof can we do,1,Question,,N/A,Invalid,,,,,,
+0,1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+4c489c65d3f90e36c7d26d81b2de1f23,1,Session,Trelegy,,,Invalid,,,,19/01/2026,21:13:09
+CONSUMER,1,Question,,N/A,Invalid,,,,,,
+"'- Potential Product Quality Issue (ID: 920, External: No, Clicks: 0)
+- Inquiries about GSK outside the United States (ID: 1252, External: No, Clicks: 0)
+- Request for Medical Advice / Recommendation (ID: 1196, External: No, Clicks: 0)",1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+4ef8cd947e31262443eb325b2cbc1603,1,Session,Trelegy,,,Success,,,,19/01/2026,17:31:02
+I just applyed for the coupon. How do i know if i get approved or not,1,Question,,RC,Valid,,,,,,
+"'- Questions about GSK Patient Assistance Program (ID: 984, External: No, Clicks: 0)
+- Savings Offer Eligibility (ID: 771, External: No, Clicks: 1)
+- Savings offer will not submit, not received or lost (ID: 1183, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+Rating: No,1,Rating,,,,,,,,,
+4f74277e636a9a783eefaaa9d897e407,1,Session,Contactus,,,Success,,,,20/01/2026,10:17:39
+Gsk retiree looking for 2025 w2. Not posted to paperless employee,1,Question,,RC,Valid,,,,,,
+"'- GSK Benefits Center for Employee/Retiree Inquiries (ID: 1825, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+50b0f1555d98db3d345bdf60438386e5,1,Session,Shingrix,,,Unsuccessful,,,,22/01/2026,20:53:44
+Can I get my second shot if im sick,1,Question,,PQ,Valid,,,,,,
+"'- For patients 50 years or older, is there a time that is preferred in the 2 to 6 month time-frame to get your second dose of SHINGRIX? (ID: 1129, External: No, Clicks: 1)",1,Answer,,,,Inaccurate,,,,,
+Rating: No,1,Rating,,,,,,,,,
+50b9a2b0ca40fdb60c6f589bfa7fda20,1,Session,NucalaHCP,,,Unsuccessful,,,,20/01/2026,17:04:14
+What is the eosinophilic biomarker for nucala my insurance doesnt cover tezspire anymore,1,Question,,PQ,Valid,,,,,,
+"'- Together with NUCALA Information for Cost, Insurance and Other Resources (ID: 1314, External: No, Clicks: 1)",1,Answer,,,,Inaccurate,,,,,
+Rating: No,1,Rating,,,,,,,,,
+5200c76c19634906fbb9b43a99569683,1,Session,Benlysta,,,Invalid,,,,18/01/2026,09:38:39
+Infusions,1,Question,,N/A,Invalid,,,,,,
+"'- What are the common side effects of BENLYSTA? (ID: 1439, External: No, Clicks: 1)
+- What are the ingredients in BENLYSTA? (ID: 1441, External: No, Clicks: 0)
+- What do I do if I forgot to take my BENLYSTA? (ID: 597, External: No, Clicks: 0)",1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+525677522de9f911b32add28dbc7cf02,1,Session,Trelegy,,,Success,,,,21/01/2026,14:27:01
+i am trying to find this medication for less monthly cost,1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)
+- What is the cost of my medicine or vaccine? (ID: 1198, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+5398a2441235ca86e26efa7c1525fbfa,2,Session,TrelegyHCP,,,Success,,,,19/01/2026,21:25:34
+I no longer have Ins.,1,Question,,FA,Valid,,,,,,
+"'- Potential Product Quality Issue (ID: 920, External: No, Clicks: 0)
+- Questions about GSK Product Availability (ID: 87, External: No, Clicks: 0)
+- Why is a savings offer not available? (ID: 952, External: No, Clicks: 0)",1,Answer,,,,Inaccurate,,,,,
+,1,Rating,,,,,,,,,
+My dr. Told me i can contact yall to get a coupon to help with my cost. I went to get my refill and they told me 700$,1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+541281991d4bd689837d455b76b5a519,1,Session,BenlystaHCP,,,Unsuccessful,,,,23/01/2026,15:02:24
+Can you send me the package with the stickers for locations of injection sites,1,Question,,RC,Valid,,,,,,
+0,1,Answer,,,,No Answer,,,,,
+,1,Rating,,,,,,,,,
+5430c8b7d760ff81b6a80dabaaa7f083,2,Session,Contactus,,,Unsuccessful,,,,18/01/2026,18:17:07
+damaged product,1,Question,,PQ,Valid,,,,,,
+"'- Haleon Over-the-Counter Product Information (ID: 994, External: No, Clicks: 1)",1,Answer,,,,Inaccurate,,,,,
+,1,Rating,,,,,,,,,
+report tampering,1,Question,,PQ,Valid,,,,,,
+0,1,Answer,,,,No Answer,,,,,
+,1,Rating,,,,,,,,,
+55287b29724650bfc1c3659e0b4eaedf,1,Session,Contactus,,,Success,,,,20/01/2026,19:48:14
+checking my patient medication assistance application,1,Question,,RC,Valid,,,,,,
+"'- Questions about GSK Patient Assistance Program (ID: 984, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+55841b03045930b9cf6276bb191c1ee7,2,Session,Contactus,,,Unsuccessful,,,,22/01/2026,14:21:01
+I have pension benefits that I have not collected in years due to a change in address,1,Question,,RC,Valid,,,,,,
+0,1,Answer,,,,No Answer,,,,,
+,1,Rating,,,,,,,,,
+Pension benefits not collected,1,Question,,RC,Valid,,,,,,
+0,1,Answer,,,,No Answer,,,,,
+,1,Rating,,,,,,,,,
+55936680555fa61f91a9bbce3c6ce7e0,4,Session,Contactus,,,Invalid,,,,24/01/2026,01:07:50
+Orders and Returns,1,Question,,N/A,Invalid,,,,,,
+"'- Healthcare Provider Medicine or Vaccine Availability, Ordering and Pricing, Return Goods (ID: 1169, External: No, Clicks: 1)",1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+"Please feel free to reach out or visit our website for more information: 🌐 www.pulsecaresolutions.com ✉️ team.pulsecaresolutions@gmail.com  💻 Contact Details:-  +91 8788259563  I am excited to speak with you.  Warm regards, NBangar 🌐 www.pulsecaresoluti",1,Question,,N/A,Invalid,,,,,,
+0,1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+"Pulse Care Solutions | Healthcare Coding & Billing Services Dear Chanmit Sir, I hope this message finds you well. My name is Nikhil B, and I’m reaching out on behalf of Pulse Care Solutions. We are a small-scale startup with a dedicated team of 50–100 expe",1,Question,,N/A,Invalid,,,,,,
+0,1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+Temperature Excursions,1,Question,,N/A,Invalid,,,,,,
+0,1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+564ac0311e1429630ca7b39800610f65,1,Session,BenlystaHCP,,,Success,,,,22/01/2026,09:23:04
+It says I can’t qualify,1,Question,,RC,Valid,,,,,,
+"'- Request for Medical Advice / Recommendation (ID: 1196, External: No, Clicks: 0)
+- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+576bdad16562fc53fa7dbfe7b9a06802,1,Session,Contactus,,,Success,,,,19/01/2026,18:03:53
+I signed up for the Nucala co pay assistance. What do I do now?,1,Question,,RC,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+58c433c637a944232a6efce7422a7233,1,Session,Trelegy,,,Success,,,,20/01/2026,11:07:58
+I had gotten a new bin number through a text message and it has been accidentally deleted is there anyway to fst it resent to me,1,Question,,RC,Valid,,,,,,
+"'- Questions about pharmacy processing a savings offer (ID: 1182, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+Rating: Yes,1,Rating,,,,,,,,,
+599818f82c64c8d90da6334803c1278e,1,Session,Contactus,,,Unsuccessful,,,,20/01/2026,13:20:49
+I SIGNED UP FOR THE CCOUPN AND I WAS NOT APPROVE? WHY,1,Question,,RC,Valid,,,,,,
+"'- Savings offer will not submit, not received or lost (ID: 1183, External: No, Clicks: 1)",1,Answer,,,,Inaccurate,,,,,
+,1,Rating,,,,,,,,,
+59afff312c997731a48c63ac85ebd8b3,2,Session,Trelegy,,,Success,,,,22/01/2026,11:27:16
+how  can i submit my request again,1,Question,,RC,Valid,,,,,,
+"'- Savings offer will not submit, not received or lost (ID: 1183, External: No, Clicks: 1)
+- Questions about GSK Patient Assistance Program (ID: 984, External: No, Clicks: 0)
+- Request for Drug Recall Information (ID: 1637, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+i did not receivemy card on my email or phone,1,Question,,RC,Valid,,,,,,
+"'- Savings offer will not submit, not received or lost (ID: 1183, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+5c2eeb487dbfcbb8a954df8bc89ea2b4,2,Session,Contactus,,,Success,,,,19/01/2026,10:54:00
+I received a Benlysta insulated carrying pouch,1,Question,,N/A,Invalid,,,,,,
+"'- How to take BENLYSTA? (ID: 586, External: No, Clicks: 0)
+- Questions about taking other medicines when using BENLYSTA (ID: 1466, External: No, Clicks: 0)
+- How will I receive BENLYSTA? (ID: 1482, External: No, Clicks: 0)",1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+I received a Benlysta insulated carrying pouch . How does it work ?,1,Question,,PQ,Valid,,,,,,
+"'- What is BENLYSTA? (ID: 1471, External: No, Clicks: 0)
+- How to take BENLYSTA? (ID: 586, External: No, Clicks: 0)
+- How will I receive BENLYSTA? (ID: 1482, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+5c9502ac34735da573166269929546af,1,Session,Trelegy,,,Invalid,,,,21/01/2026,15:35:38
+"I am going on my walk.,",1,Question,,N/A,Invalid,,,,,,
+"'- [""Have a nice day and I hope to see you again soon!""] (ID: 63, External: Yes, Clicks: 1)",1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+5e925ced6c3030c821cde8602d34d525,1,Session,Trelegy,,,Success,,,,20/01/2026,11:30:46
+I need a coupon or voucher to get trilegy cheaper,1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)
+- Questions about pharmacy processing a savings offer (ID: 1182, External: No, Clicks: 0)
+- Common side effects of TRELEGY ELLIPTA for COPD (ID: 1085, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+5eb1b495c6befeeda832a32bb0877996,1,Session,Trelegy,,,Unsuccessful,,,,21/01/2026,04:43:20
+Best meds I have used now for almost 2 months thank the creators for you excellent product yours James Wesley Brown 30064 vacation drive Logan ohio,1,Question,,RC,Valid,,,,,,
+"'- Questions about GSK Patient Assistance Program (ID: 984, External: No, Clicks: 1)",1,Answer,,,,Inaccurate,,,,,
+Rating: Yes,1,Rating,,,,,,,,,
+5ebfa46a6de5b73bff085f86682b41b9,1,Session,Mybreo,,,Success,,,,24/01/2026,13:43:58
+Looking for a copay assistance card,1,Question,,FA,Valid,,,,,,
+"'- Questions about pharmacy processing a savings offer (ID: 1182, External: No, Clicks: 0)
+- Savings Offer Eligibility (ID: 771, External: No, Clicks: 1)
+- Savings offer will not submit, not received or lost (ID: 1183, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+Rating: Yes,1,Rating,,,,,,,,,
+5edfc3ae9a1a2b576b30d79d81729b38,1,Session,Shingrix,,,Invalid,,,,21/01/2026,15:48:47
+CONSUMER,1,Question,,N/A,Invalid,,,,,,
+"'- Potential Product Quality Issue (ID: 920, External: No, Clicks: 0)
+- Inquiries about GSK outside the United States (ID: 1252, External: No, Clicks: 0)
+- Request for Medical Advice / Recommendation (ID: 1196, External: No, Clicks: 1)",1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+5f4cb06306e1cc4890622c001024cb8c,1,Session,Advair,,,Success,,,,21/01/2026,18:00:29
+"Do you offer coupons for Advair products, diskus 250/50",1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+609712405f23053729a84ac101a10d85,3,Session,Contactus,,,Unsuccessful,,DRLC,,20/01/2026,10:41:56
+connect to live agent,2,Question,,LA,Valid,,,,,,
+"'- Chat with a Human (ID: 1, External: No, Clicks: 1)",2,Answer,,,,Accurate,,,,,
+,2,Rating,,,,,,,,,
+connect to live agent. willing to wait.,1,Question,,LA,Valid,,,,,,
+"'- Chat with a Human (ID: 1, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+60ed3ce48a3ba6dfe49a459ff315a8b7,1,Session,Benlysta,,,Unsuccessful,,,,23/01/2026,16:40:05
+"Since I have started benlysta, I have developed 3 different cysts or abscesses that are not healing. Is this a reaction to the medication?",1,Question,,PQ,Valid,,,,,,
+0,1,Answer,,,,No Answer,,,,,
+,1,Rating,,,,,,,,,
+61fa042004e3ab0693b613c85964315e,2,Session,Mybreo,,,Success,,,,21/01/2026,18:35:37
+I need a discount coupon for my Breo RX,1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+I try the website and nothing works,1,Question,,N/A,Invalid,,,,,,
+"'- Savings offer will not submit, not received or lost (ID: 1183, External: No, Clicks: 0)
+- Questions about pharmacy processing a savings offer (ID: 1182, External: No, Clicks: 0)",1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+61fa27bfece5632bf08bab17319b3610,1,Session,Nucala,,,Invalid,,,,23/01/2026,19:35:49
+I’m already on Nucala but I need to talk to somebody,1,Question,,N/A,Invalid,,,,,,
+"'- Chat with a Human (ID: 1, External: No, Clicks: 1)
+- Can I receive NUCALA with other medicines? (ID: 1527, External: No, Clicks: 0)
+- Together with NUCALA Follow-up Inquiries (ID: 1680, External: No, Clicks: 0)",1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+62f9fa739b053a0711462824f3176986,2,Session,Trelegy,,,Success,,,,19/01/2026,08:48:28
+How do I renew my 2025 savings card?,1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 0)
+- Questions about pharmacy processing a savings offer (ID: 1182, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+My 2025 saving card expired.   How do I get a new one?,1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+6387792c2a07755aa110a9eda719fe56,1,Session,Trelegy,,,Invalid,,,,19/01/2026,12:26:14
+savings card,1,Question,,N/A,Invalid,,,,,,
+"'- Questions about pharmacy processing a savings offer (ID: 1182, External: No, Clicks: 1)",1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+6572ed22dde784672415fe9cc76d9fdc,1,Session,Shingrix,,,Unsuccessful,,,,21/01/2026,22:40:17
+"My doctor will not prescribe this for me because I am 43, however, this is my third instance of shingles this year",1,Question,,PQ,Valid,,,,,,
+"'- Does a patient need a prescription to receive SHINGRIX at a pharmacy? (ID: 1127, External: No, Clicks: 1)",1,Answer,,,,Inaccurate,,,,,
+Rating: No,1,Rating,,,,,,,,,
+65e1fb22013e48f410cec6b6fc9807c9,1,Session,Contactus,,,Success,,,,20/01/2026,17:23:38
+I’m already on Benlysta copay program but my card number is not working,1,Question,,RC,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+66790e576ae5a0827127d885a4885854,1,Session,Trelegy,,,Success,,,,19/01/2026,13:53:58
+Savings program eligibility,1,Question,,RC,Valid,,,,,,
+"'- Savings Offer Eligibility (ID: 771, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+Rating: No,1,Rating,,,,,,,,,
+66edaccc04e9114113fa50830c387ea9,2,Session,Shingrix,,,Success,,,,23/01/2026,22:47:53
+Did not help,1,Question,,N/A,Invalid,,,,,,
+"'- Is a booster dose required with SHINGRIX? (ID: 1193, External: No, Clicks: 0)
+- If a patient 50 years or older just had a case of shingles, how long do they have to wait to get the SHINGRIX vaccination? (ID: 1109, External: No, Clicks: 0)",1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+I had the Shingrix vaccine. Then 2 years later I had shingles. Should I get vaccinated again?,1,Question,,PQ,Valid,,,,,,
+"'- If a patient 50 years or older already had shingles, can they still get vaccinated with SHINGRIX? (ID: 1192, External: No, Clicks: 0)
+- If a patient 50 years or older just had a case of shingles, how long do they have to wait to get the SHINGRIX vaccination? (ID: 1109, External: No, Clicks: 0)
+- Is a booster dose required with SHINGRIX? (ID: 1193, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+671f31a2219383adb4673e8d25df6673,1,Session,BenlystaHCP,,,Success,,,,19/01/2026,11:14:46
+How do I apply for the co-pay assistance?,1,Question,,FA,Valid,,,,,,
+"'- BENLYSTA Gateway for Cost, Insurance and Other Resources (ID: 1392, External: No, Clicks: 1)
+- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+67e397c74843811ab93d215a5df0fe80,1,Session,BenlystaHCP,,,Success,,,,19/01/2026,20:06:57
+I forgot to take my shot what do I need to do,1,Question,,PQ,Valid,,,,,,
+"'- What do I do if I forgot to take my BENLYSTA? (ID: 597, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+6a2c899c2d6d66d7b0ca8d5b7bbd98b7,1,Session,Trelegy,,,Success,,,,18/01/2026,19:37:50
+I do not see coupon.,1,Question,,RC,Valid,,,,,,
+"'- Savings offer will not submit, not received or lost (ID: 1183, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+Rating: Yes,1,Rating,,,,,,,,,
+6b62b7a793a613532dc64523baf774f6,1,Session,BenlystaHCP,,,Invalid,,,,20/01/2026,07:46:43
+swithching iv to subcutaneous in new patient,1,Question,,N/A,Invalid,,,,,,
+0,1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+6c4168240856af33cf0b1ddd99ab648e,1,Session,BenlystaHCP,,,Success,,,,20/01/2026,19:02:51
+I use the copay assistance program and I got new insurance this year so Im not sure if I need to update information to still use my assistance,1,Question,,RC,Valid,,,,,,
+"'- BENLYSTA Gateway for Cost, Insurance and Other Resources (ID: 1392, External: No, Clicks: 1)
+- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+6c4b54aa24b59e074e8d356f912428d2,3,Session,TrelegyHCP,,,Unsuccessful,,,,21/01/2026,13:02:15
+Can I get a phone number,1,Question,,N/A,Invalid,,,,,,
+"'- Inhaler Potential Product Quality Issue (ID: 1401, External: No, Clicks: 0)
+- Inquiries about GSK outside the United States (ID: 1252, External: No, Clicks: 0)",1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+I just need help,1,Question,,N/A,Invalid,,,,,,
+"'- Request for Medical Advice / Recommendation (ID: 1196, External: No, Clicks: 0)
+- Chat with a Human (ID: 1, External: No, Clicks: 1)",1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+I take Trelegy and I can’t afford it can you help me?,1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+6cdd1c0a58c414e74bec41000bc418a9,20,Session,Nucala,,,Invalid,,,,20/01/2026,23:46:11
+. v.,1,Question,,N/A,Invalid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+Bb.  Bbbb  bbbb. Bbbbbbbb,1,Question,,N/A,Invalid,,,,,,
+0,1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+Bb.  Bbbb  bbbb. Bbbbbbbb  bbb  bm bnbbb,1,Question,,N/A,Invalid,,,,,,
+0,1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+Bm bbbmbmbm mn. mb bbbbm bmbmb mm bnb b,1,Question,,N/A,Invalid,,,,,,
+0,1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+Bnb Mmm,1,Question,,N/A,Invalid,,,,,,
+0,1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+Bnb Mmmn. Bn b   n mmmmbmbm.  m m bb bbvn b. mmnmmb mbmbb bbmmmn b bbb b. b m b. b g b b bb b. Bbvn. G  b.  Bbb bmbb.  M,1,Question,,N/A,Invalid,,,,,,
+0,1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+Bnb Mmmn. Bn b  bb m b. b g b b bb b. Bbvn. G  b.  Bbb bmb.  M,1,Question,,N/A,Invalid,,,,,,
+0,1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+Bnb Mmmn. Bn b  bbb.,1,Question,,N/A,Invalid,,,,,,
+0,1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+Bnb Mmmn. Bn b  m  m b. b g b b bb b. Bbvn. G  b.  Bbb bmbb.  M,1,Question,,N/A,Invalid,,,,,,
+0,1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+Bnb Mmmn. Bn b  m m bb bbvn b. mmnmmb mbmbb bbmmn b bbb b. b m b. b g b b bb b. Bbvn. G  b.  Bbb bmbb.  M,1,Question,,N/A,Invalid,,,,,,
+0,1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+Bnb Mmmn. Bn b  m mmmn b bb. b m b. b g b b bb b. Bbvn. G  b.  Bbb bmbb.  M,1,Question,,N/A,Invalid,,,,,,
+0,1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+M b bm,1,Question,,N/A,Invalid,,,,,,
+0,1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+M b bmn,1,Question,,N/A,Invalid,,,,,,
+0,1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+Mbbmbmmbmmb,1,Question,,N/A,Invalid,,,,,,
+0,1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+Mbbmbmmbmmbbbb,1,Question,,N/A,Invalid,,,,,,
+0,1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+Mbbmbmmbmmbbbbb,1,Question,,N/A,Invalid,,,,,,
+0,1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+Mmbm mbmbmm. nb,2,Question,,N/A,Invalid,,,,,,
+0,2,Answer,,,,,,,,,
+,2,Rating,,,,,,,,,
+Mmbm mbmbmm. nb b,1,Question,,N/A,Invalid,,,,,,
+0,1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+Mmmm m m mmmmmmm,1,Question,,N/A,Invalid,,,,,,
+0,1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+6d6e953c327b19dd18a1d87e416735d3,2,Session,Contactus,,,Success,,,,20/01/2026,14:09:57
+"I wanted to clarify the savings discount, I am on medicare but have commerical",1,Question,,RC,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 0)
+- Savings Offer Eligibility (ID: 771, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+"prescription plan, would i qualify for the savings plan?",1,Question,,FA,Valid,,,,,,
+"'- Savings Offer Eligibility (ID: 771, External: No, Clicks: 1)
+- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+Rating: No,1,Rating,,,,,,,,,
+6e02452913843232d539c9f664c6a6e0,1,Session,NucalaHCP,,,Success,,,,20/01/2026,11:37:00
+I have applied for assistance and was wondering how I can check the status,1,Question,,RC,Valid,,,,,,
+"'- Together with NUCALA Follow-up Inquiries (ID: 1680, External: No, Clicks: 1)
+- How to inject NUCALA at home (ID: 1569, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+6e3f77d2d4f6b789489b954c9581b8ba,2,Session,Contactus,,,Success,,,,23/01/2026,01:47:58
+Refill,1,Question,,RC,Valid,,,,,,
+"'- Questions about GSK Patient Assistance Program (ID: 984, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+Refill my trelogy,1,Question,,RC,Valid,,,,,,
+"'- Questions about GSK Patient Assistance Program (ID: 984, External: No, Clicks: 0)
+- Inhaler Potential Product Quality Issue (ID: 1401, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+6f2bacba64e8a0bfe0c44d606ba9f591,1,Session,TrelegyHCP,,,Success,,,,20/01/2026,19:00:21
+"I need this medication, but I can’t afford it. How do I get a coupon?",1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+716421c102d9a6a73205afd869dfc246,4,Session,Contactus,,,Unsuccessful,,,,18/01/2026,10:09:52
+agent,1,Question,,LA,Valid,,,,,,
+"'- Chat with a Human (ID: 1, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+Malfunctioned Revinity Ellipta device,1,Question,,PQ,Valid,,,,,,
+"'- Potential Product Quality Issue (ID: 920, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+"We traveled to the USA with a brand new Revinity Ellipta inhaler for my son. When we unpacked, the inhaled had malfunctioned and shows solid red in the window. We only have 8 doses left on his old pump and we can't afford to purchase a new one. please assi",1,Question,,N/A,Invalid,,,,,,
+0,1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+yes,1,Question,,N/A,Invalid,,,,,,
+"'- [""Sounds good, happy to answer more questions.""] (ID: 49, External: Yes, Clicks: 1)",1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+71eaee9a613022b2ea57929754db587b,1,Session,Nucala,,,Success,,,,20/01/2026,16:54:33
+How can i get a copy of my copay card,1,Question,,RC,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+72c6fc8d4d044e20e411e70bc89f1fab,1,Session,ShingrixHCP,,,Invalid,,,,21/01/2026,15:16:06
+I.  Have shingles. On the left side of my back,1,Question,,N/A,Invalid,,,,,,
+"'- Questions about Shingles (ID: 1188, External: No, Clicks: 1)",1,Answer,,,,,,,,,
+Rating: Yes,1,Rating,,,,,,,,,
+732e9bba71596daa7e1b978fb38e46ef,1,Session,Exdensur,,,Unsuccessful,,,,21/01/2026,15:06:42
+How is it administered,1,Question,,PQ,Valid,,,,,,
+"'- Chat with a Human (ID: 1, External: No, Clicks: 0)
+- Request for Medical Advice / Recommendation (ID: 1196, External: No, Clicks: 1)
+- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 0)",1,Answer,,,,Inaccurate,,,,,
+Rating: No,1,Rating,,,,,,,,,
+73c823bbdae3ec6bf1a93385bf2328ef,1,Session,Trelegy,,,Unsuccessful,,,,20/01/2026,13:39:47
+how do i print out or get my trelegy savings carde,1,Question,,FA,Valid,,,,,,
+"'- Activating a Savings Offer (ID: 900, External: No, Clicks: 1)",1,Answer,,,,Inaccurate,,,,,
+Rating: No,1,Rating,,,,,,,,,
+740175a83dec1b97acc11f88bb749205,1,Session,Contactus,,,Success,,,,22/01/2026,09:45:24
+Do you offer any coupons for trelegy Elita,1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 0)
+- Questions about pharmacy processing a savings offer (ID: 1182, External: No, Clicks: 1)
+- Savings offer will not submit, not received or lost (ID: 1183, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+752476635b66d16d5bf2d27398ed0756,1,Session,Trelegy,,,Invalid,,,,22/01/2026,15:02:30
+1Save to 267-89,1,Question,,N/A,Invalid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 0)
+- Why is a savings offer not available? (ID: 952, External: No, Clicks: 0)
+- Activating a Savings Offer (ID: 900, External: No, Clicks: 1)",1,Answer,,,,,,,,,
+Rating: Yes,1,Rating,,,,,,,,,
+767c642ee8a254859ccc811a12f6a90b,2,Session,NucalaHCP,,,Unsuccessful,,,,23/01/2026,13:44:45
+agent,1,Question,,LA,Valid,,,,,,
+"'- Chat with a Human (ID: 1, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+nucala misfire need replacement,1,Question,,PQ,Valid,,,,,,
+"'- Potential Product Quality Issue (ID: 920, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+76c228400911a87d0a3ab79689385b00,2,Session,Advair,,,Success,,,,22/01/2026,17:01:47
+Coupon,1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+Where can I find the coupon for Advair Diskus,1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 0)
+- Rinsing mouth after ADVAIR DISKUS use to reduce risk of thrush (ID: 1043, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+7790cef12f9a9d461a52c88ae592d100,1,Session,Trelegy,,,Success,,,,21/01/2026,13:01:35
+what happens when I enroll in medicaire and am no longer eligible for this coupon. Do you have a different one for medicaire users?,1,Question,,RC,Valid,,,,,,
+"'- Savings offer will not submit, not received or lost (ID: 1183, External: No, Clicks: 0)
+- Questions about GSK Patient Assistance Program (ID: 984, External: No, Clicks: 0)
+- Savings Offer Eligibility (ID: 771, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+77c7b2f15cd55bd2b01ec4b80b00d6e9,1,Session,BenlystaHCP,,,Success,,,,19/01/2026,19:26:59
+I was trying to see how can I get my prepaid card info,1,Question,,RC,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+782cb8f1e76c05684710b3e068c4066f,1,Session,BenlystaHCP,,,Success,,,,22/01/2026,17:07:04
+check enrollment status,1,Question,,RC,Valid,,,,,,
+"'- Request to participate in a GSK clinical trial (ID: 916, External: No, Clicks: 0)
+- BENLYSTA Gateway for Cost, Insurance and Other Resources (ID: 1392, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+7891714ca158c4e05276a824df36f914,1,Session,Contactus,,,Invalid,,,,21/01/2026,11:54:13
+help desk,1,Question,,N/A,Invalid,,,,,,
+"'- Questions about pharmacy processing a savings offer (ID: 1182, External: No, Clicks: 0)
+- Chat with a Human (ID: 1, External: No, Clicks: 1)",1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+78d3a285c9d584f71abd440e69522586,1,Session,Contactus,,,Success,,,,19/01/2026,17:37:52
+I was given a script and trial dose age for Treligy Elipta The out of pocket cost is $802.00. This is the only medication that has helped me. What can I do?.,1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+79fe01a42118e47056e93801393dec1a,2,Session,NucalaHCP,,,Success,,,,18/01/2026,11:29:41
+"Ins will only cover 3 injections, is it wise to stop then?",1,Question,,PQ,Valid,,,,,,
+0,1,Answer,,,,No Answer,,,,,
+,1,Rating,,,,,,,,,
+Is 3 injections enough,1,Question,,PQ,Valid,,,,,,
+"'- Common side effects of NUCALA (ID: 1244, External: No, Clicks: 0)
+- Request for Medical Advice / Recommendation (ID: 1196, External: No, Clicks: 1)
+- How to inject NUCALA at home (ID: 1569, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+7a8818aca436b505fbd318037701af4d,1,Session,Exdensur,,,Unsuccessful,,,,21/01/2026,15:09:54
+how does it works,1,Question,,PQ,Valid,,,,,,
+"'- Potential Product Quality Issue (ID: 920, External: No, Clicks: 0)
+- Savings Offer Eligibility (ID: 771, External: No, Clicks: 0)
+- Questions about pharmacy processing a savings offer (ID: 1182, External: No, Clicks: 0)",1,Answer,,,,Inaccurate,,,,,
+,1,Rating,,,,,,,,,
+7ab1084dd030f64c0b050ca4a2bf7931,1,Session,TrelegyHCP,,,Unsuccessful,,,,21/01/2026,18:10:55
+"Yes, my doctor says I need Trilogy for my COPD but I can't afford it. At my pharmacy it is 600.00.",1,Question,,FA,Valid,,,,,,
+"'- What is TRELEGY ELLIPTA? (ID: 1294, External: No, Clicks: 1)
+- Request for Medical Advice / Recommendation (ID: 1196, External: No, Clicks: 0)
+- Inhaler Potential Product Quality Issue (ID: 1401, External: No, Clicks: 0)",1,Answer,,,,Inaccurate,,,,,
+Rating: Yes,1,Rating,,,,,,,,,
+7c94250d763fdd145e2a727e1d1c0650,1,Session,Contactus,,,Success,,,,20/01/2026,17:09:48
+How to get trilogy for free,1,Question,,FA,Valid,,,,,,
+"'- Questions about GSK Patient Assistance Program (ID: 984, External: No, Clicks: 0)
+- What is the cost of my medicine or vaccine? (ID: 1198, External: No, Clicks: 0)
+- Common side effects of TRELEGY ELLIPTA for COPD (ID: 1085, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+7c97a280d8ed3bf761dc762750fe8093,1,Session,Trelegy,,,Success,,,,23/01/2026,16:59:59
+i recently got a online coupon for teligy but my pharmacist said he needed an id #,1,Question,,RC,Valid,,,,,,
+"'- Questions about pharmacy processing a savings offer (ID: 1182, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+7cde53425a3da19bb536dbfea0c694b0,1,Session,Benlysta,,,Unsuccessful,,,,21/01/2026,12:47:44
+Is it normal to experience flu like symptoms one week after infusion. I’m on dose 2 of the loading doses,1,Question,,PQ,Valid,,,,,,
+0,1,Answer,,,,No Answer,,,,,
+,1,Rating,,,,,,,,,
+7dc1bfa781378c076838e4e2500871a4,1,Session,Trelegy,,,Success,,,,20/01/2026,08:06:27
+I haven’t received my coupon through my email,1,Question,,RC,Valid,,,,,,
+"'- Savings offer will not submit, not received or lost (ID: 1183, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+Rating: No,1,Rating,,,,,,,,,
+7de573e7856b609b52e155e167262955,1,Session,NucalaHCP,,,Success,,,,23/01/2026,13:59:29
+I've been on Nucala for about 3years do I need to Re-Enroll every year,1,Question,,RC,Valid,,,,,,
+"'- Together with NUCALA Follow-up Inquiries (ID: 1680, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+Rating: No,1,Rating,,,,,,,,,
+7e3718d05ebde86378b01629bba8fa59,1,Session,Contactus,,,Unsuccessful,,DRLC,,23/01/2026,10:49:26
+Do you have an agent to speak to,1,Question,,LA,Valid,,,,,#N/A,#N/A
+"'- Chat with a Human (ID: 1, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+7e4f2324eecf644df66a7aea2dfef2ec,1,Session,Trelegy,,,Success,,,,21/01/2026,18:06:20
+Shaking required,1,Question,,PQ,Valid,,,,,,
+"'- Should I shake the TRELEGY ELLIPTA Inhaler? (ID: 1088, External: No, Clicks: 1)
+- Common side effects of TRELEGY ELLIPTA for Asthma (ID: 1084, External: No, Clicks: 0)
+- Common side effects of TRELEGY ELLIPTA for COPD (ID: 1085, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+7e9e227122a78b00c8b3352de93a22ee,1,Session,Contactus,,,Success,,,,20/01/2026,11:10:33
+My doctors office sent paper work in to GSK a week or so ago for me because my Medicare stopped paying for my BREO Elepta and I was wondering if my application had been received,1,Question,,RC,Valid,,,,,,
+"'- Questions about GSK Patient Assistance Program (ID: 984, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+7f5681e6e9ee79f3e999c47b9ef685d2,1,Session,BlenrepHCP,,,Success,,,,22/01/2026,14:25:18
+what specialty pharmacy can dispense blenrep?,1,Question,,RC,Valid,,,,,,
+"'- Together with GSK BLENREP for Healthcare Professionals (ID: 1773, External: No, Clicks: 0)
+- What is the difference between Together with GSK and Together with BLENREP for healthcare professionals? (ID: 1774, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+Rating: No,1,Rating,,,,,,,,,
+8230d81da026dfe9afad588ff66752fa,1,Session,Trelegy,,,Success,,,,22/01/2026,19:53:08
+Can elegy still be used if it froze ? I left in my car overnight,1,Question,,PQ,Valid,,,,,,
+"'- Questions about GSK Patient Assistance Program (ID: 984, External: No, Clicks: 0)
+- Storage recommendations for TRELEGY ELLIPTA (ID: 1087, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+838c67cb7d13dfee738e1e9992a4d275,3,Session,Arexvy,,,Success,,,,23/01/2026,08:09:19
+Enroll,1,Question,,RC,Valid,,,,,,
+"'- Request to unsubscribe from GSK promotions (ID: 917, External: No, Clicks: 0)
+- Request to participate in a GSK clinical trial (ID: 916, External: No, Clicks: 1)",1,Answer,,,,Inaccurate,,,,,
+,1,Rating,,,,,,,,,
+Financial,1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+What are the side effects?,1,Question,,PQ,Valid,,,,,,
+"'- What are the common side effects of AREXVY? (ID: 1604, External: No, Clicks: 1)
+- Information about medication side effects (ID: 926, External: No, Clicks: 0)
+- How long do AREXVY side effects last? (ID: 1743, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+83bb7b58c1cc8838b690361aeca110d0,1,Session,Mybreo,,,Success,,,,20/01/2026,14:27:35
+samples,1,Question,,RC,Valid,,,,,,
+"'- HCP Sample Request (ID: 1650, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+85311aed1c877f1a9f38bc7a185254be,1,Session,Trelegy,,,Success,,,,21/01/2026,12:04:40
+Need an ID number for my husband's Trelegy savings card,1,Question,,RC,Valid,,,,,,
+"'- Activating a Savings Offer (ID: 900, External: No, Clicks: 0)
+- Questions about pharmacy processing a savings offer (ID: 1182, External: No, Clicks: 0)
+- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+857849ebfc720e5f8fefb131ab86fc25,1,Session,TrelegyHCP,,,Success,,,,22/01/2026,15:19:28
+Need help covering my meds,1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)
+- Is my medicine covered under my insurance plan? (ID: 1195, External: No, Clicks: 0)
+- Savings Offer Eligibility (ID: 771, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+8628f72aa5447c50bfd29a1be03c901a,1,Session,Trelegy,,,Success,,,,18/01/2026,13:13:57
+I sighed up and registered for trelegy got no ID#,1,Question,,RC,Valid,,,,,,
+"'- Questions about pharmacy processing a savings offer (ID: 1182, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+86bc6489398350dfd96f0761efef0b33,1,Session,Contactus,,,Unsuccessful,,,,21/01/2026,09:32:16
+reps for trelegy,1,Question,,RC,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 0)
+- Questions about GSK Patient Assistance Program (ID: 984, External: No, Clicks: 0)
+- HCP Sample Request (ID: 1650, External: No, Clicks: 1)",1,Answer,,,,Inaccurate,,,,,
+,1,Rating,,,,,,,,,
+87272f8b156ccb06e7b1472f516c5306,1,Session,NucalaHCP,,,Success,,,,23/01/2026,09:01:43
+I just gave meijer specialty pharmacy the co-pay card I had from Accredo. They said it would only pay $101.25 and I owed 1452 yet.,1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+87585ba79e18f81334e464a525a6dbb8,1,Session,Shingrix,,,Success,,,,23/01/2026,17:31:20
+Are the side effects more common after the 1st or 2nd shot,1,Question,,PQ,Valid,,,,,,
+"'- Common Side Effects of SHINGRIX (ID: 1118, External: No, Clicks: 0)
+- Request for General Information about Vaccines (ID: 1227, External: No, Clicks: 0)
+- Is there a difference between the first and second dose of SHINGRIX? (ID: 1128, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+87e179f52fc6bcaed1cc75842b6bb8b9,1,Session,Trelegy,,,Success,,,,23/01/2026,10:21:12
+Coupon did not arrive for trelegy,1,Question,,RC,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 0)
+- Questions about pharmacy processing a savings offer (ID: 1182, External: No, Clicks: 0)
+- Savings offer will not submit, not received or lost (ID: 1183, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+881a2e011703a8e24166885f14480ff1,1,Session,Nucala,,,Invalid,,,,18/01/2026,10:14:06
+Not yet,1,Question,,N/A,Invalid,,,,,,
+"'- Together with NUCALA Follow-up Inquiries (ID: 1680, External: No, Clicks: 1)
+- Request for Medical Advice / Recommendation (ID: 1196, External: No, Clicks: 0)
+- Chat with a Human (ID: 1, External: No, Clicks: 0)",1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+886a9ec705434db9a3b7421693161658,2,Session,Contactus,,,Invalid,,,,21/01/2026,14:12:48
+Ex employee requesting shipping box for my work computer,1,Question,,N/A,Invalid,,,,,,
+0,1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+Redundancy employee,1,Question,,N/A,Invalid,,,,,,
+"'- Company Job Opportunities and How to Apply for a Job or Employment (ID: 945, External: No, Clicks: 0)
+- GSK Human Resources Service Center (ID: 944, External: No, Clicks: 1)
+- GSK Benefits Center for Employee/Retiree Inquiries (ID: 1825, External: No, Clicks: 0)",1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+8ad72d2ba98fd75dd47cb59d05d610b8,2,Session,Contactus,,,Success,,,,22/01/2026,22:23:20
+Need application to renew for assistance for trelegy,1,Question,,FA,Valid,,,,,,
+"'- Questions about GSK Patient Assistance Program (ID: 984, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+Rating: Yes,1,Rating,,,,,,,,,
+Where can i get an application to re ew my pstient assis,1,Question,,RC,Valid,,,,,,
+"'- Questions about GSK Patient Assistance Program (ID: 984, External: No, Clicks: 0)
+- Company Job Opportunities and How to Apply for a Job or Employment (ID: 945, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+8b841b8dc0c6ab04cca36218d61c70b8,1,Session,Contactus,,,Unsuccessful,,,,24/01/2026,00:08:54
+Was prescribed Brexafemme by my gynecologist and unable to find pharmacy who has access to it. Has it been discontinued?,1,Question,,RC,Valid,,,,,,
+"'- Chat with a Human (ID: 1, External: No, Clicks: 1)",1,Answer,,,,Inaccurate,,,,,
+,1,Rating,,,,,,,,,
+8c41763a0b8f0600cbe14f307c5f3f46,1,Session,Contactus,,,Success,,,,24/01/2026,21:00:46
+Is there another way that I can qualify for a trelegy savings program?,1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)
+- GSK Prescription Samples (ID: 496, External: No, Clicks: 0)
+- Savings Offer Eligibility (ID: 771, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+8d3e5e9d3bf806dea88f9c5d275cd15e,1,Session,Trelegy,,,Success,,,,22/01/2026,16:43:59
+I need a coupon code,1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)
+- Questions about pharmacy processing a savings offer (ID: 1182, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+8d62aeb4b95aa60574c5a9973ff3710c,1,Session,Contactus,,,Success,,,,18/01/2026,09:14:48
+Looking to see if my paper work went through,1,Question,,RC,Valid,,,,,,
+"'- Questions about GSK Patient Assistance Program (ID: 984, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+8e220f108c145374a904a1963acbe56a,1,Session,Contactus,,,Success,,,,21/01/2026,14:46:17
+Need help getting Anoro Elliot’s inhaler 62.5-25A,1,Question,,FA,Valid,,,,,,
+"'- Request for Medical Advice / Recommendation (ID: 1196, External: No, Clicks: 0)
+- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)
+- Inhaler Potential Product Quality Issue (ID: 1401, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+8eaf0579cd691ffb487711f66c37a486,2,Session,Contactus,,,Success,,,,23/01/2026,09:08:12
+Do you ship free inhaler trainers to school nurse,1,Question,,RC,Valid,,,,,,
+"'- Where can I get a demonstration device? (ID: 908, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+"Yes, I am a school Nurse and would like to know if You ship complia",1,Question,,N/A,Invalid,,,,,,
+0,1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+8eb3c056cdd23fdeeb16c83f66100ae7,2,Session,Advair,,,Unsuccessful,,,,19/01/2026,13:15:06
+agent,1,Question,,LA,Valid,,,,,,
+"'- Chat with a Human (ID: 1, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+My last 3 advair 500/50 have quit working halfway through the month,1,Question,,PQ,Valid,,,,,,
+"'- Potential Product Quality Issue (ID: 920, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+Rating: Yes,1,Rating,,,,,,,,,
+8f4d5c9875f96dc823ff8329f41c4300,1,Session,Trelegy,,,Success,,,,21/01/2026,16:34:30
+I can't get through the sign up page? I have been using Trelegy for several years and have always had a coupon.,1,Question,,RC,Valid,,,,,,
+"'- Savings offer will not submit, not received or lost (ID: 1183, External: No, Clicks: 1)
+- Questions about pharmacy processing a savings offer (ID: 1182, External: No, Clicks: 0)
+- Questions about GSK Patient Assistance Program (ID: 984, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+Rating: Yes,1,Rating,,,,,,,,,
+9081fe81c99a72d33b139f37426c0bf1,1,Session,Incruse,,,Unsuccessful,,DRLC,,21/01/2026,11:27:37
+Live agent,1,Question,,LA,Valid,,,,,,
+"'- Chat with a Human (ID: 1, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+916640df43ecf74580e9b4b4b79c0282,2,Session,BlenrepHCP,,,Unsuccessful,,,,22/01/2026,14:26:26
+need a representative,1,Question,,LA,Valid,,,,,,
+"'- Chat with a Human (ID: 1, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+what pharmacy can dispense blenrep,1,Question,,RC,Valid,,,,,,
+0,1,Answer,,,,No Answer,,,,,
+,1,Rating,,,,,,,,,
+9197df6463e1c7f5b5d0b2e3e70658da,1,Session,Shingrix,,,Success,,,,19/01/2026,15:47:57
+I NEED REPORTED REACCION ADVERSE,1,Question,,PQ,Valid,,,,,#N/A,#N/A
+"'- Information about medication side effects (ID: 926, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+92da784278568071164f30eecc48e3b9,1,Session,Trelegy,,,Success,,,,19/01/2026,13:52:06
+I have been taking Trelogy and I do have insurance but my co pay is $680 per month I can't afford this,1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+9394440459520f13b57ea9159583b242,1,Session,Trelegy,,,Success,,,,23/01/2026,13:29:21
+Need help paying for it,1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+942a1e12413db2ab672aa3c4eabcf5df,2,Session,Contactus,,,Success,,,,22/01/2026,12:26:09
+I have been on the patient copay assistance program and I wanted to check the status since we're in a New Year.,1,Question,,RC,Valid,,,,,,
+"'- Questions about GSK Patient Assistance Program (ID: 984, External: No, Clicks: 0)
+- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+It doesnt but thank you,1,Question,,N/A,Invalid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+959a7a6d3518453c0da87378a566c994,1,Session,Contactus,,,Success,,,,19/01/2026,13:29:44
+"1my husband has COPD and is on Breo inhaler. We are on medicare and on limited income we can no longer aford the 400. + price. He has decided he must discontinue use. We stii have to have money to pay, utilities groceries,  insurance and taxes. We are in a",1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+95a32423c2879f84998635c6b306470e,1,Session,Trelegy,,,Invalid,,,,24/01/2026,10:54:12
+savings card,1,Question,,N/A,Invalid,,,,,,
+"'- Questions about pharmacy processing a savings offer (ID: 1182, External: No, Clicks: 1)",1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+95a9412a7b8e7ca7b73e55a22e36045c,1,Session,Benlysta,,,Success,,,,19/01/2026,11:04:58
+"new insurance policy, will copay program still apply? Have been using current copay card since Sept 2025",1,Question,,RC,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+95f6db3fba2dfba62f974d174e67d15b,2,Session,BenlystaHCP,,,Unsuccessful,,,,21/01/2026,16:35:19
+is there a provider portal we can log in to to do BI and patient assitance ?,1,Question,,RC,Valid,,,,,,
+0,1,Answer,,,,No Answer,,,,,
+,1,Rating,,,,,,,,,
+provider portal,1,Question,,N/A,Invalid,,,,,,
+"'- Requests regarding Clinical Studies or Clinical Trials (ID: 847, External: No, Clicks: 0)
+- GSK Healthcare Professional Website Portal (ID: 1186, External: No, Clicks: 1)
+- BENLYSTA Gateway for Cost, Insurance and Other Resources (ID: 1392, External: No, Clicks: 0)",1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+966c98499ec0421624e93444266be6e8,1,Session,Contactus,,,Unsuccessful,,DRLC,,22/01/2026,16:57:26
+connect to live agent,1,Question,,LA,Valid,,,,,,
+"'- Chat with a Human (ID: 1, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+969fb432d2c503dba4e37c3ba3a29e13,3,Session,Contactus,,,Unsuccessful,,,,18/01/2026,07:20:10
+human,1,Question,,LA,Valid,,,,,,
+"'- Chat with a Human (ID: 1, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+I use to get a coupon for $0  to pay for my pump,1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+I want a coupon for trelegy ellipta,1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 0)
+- Questions about pharmacy processing a savings offer (ID: 1182, External: No, Clicks: 0)
+- Savings offer will not submit, not received or lost (ID: 1183, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+97376b9142eed3e585fecc9ca0d1900c,1,Session,Arnuity,,,Success,,,,22/01/2026,10:22:00
+Discount,1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 0)
+- Questions about pharmacy processing a savings offer (ID: 1182, External: No, Clicks: 1)
+- Savings offer will not submit, not received or lost (ID: 1183, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+976210008bf87fc67644d6b3492400df,1,Session,Nucala,,,Success,,,,22/01/2026,14:38:12
+Where do i sign up for a coupon,1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+9795a8c5e6e3810d155ddddfde3b2095,1,Session,TrelegyHCP,,,Unsuccessful,,,,23/01/2026,11:47:19
+How effective is elegy in treating COPD,1,Question,,PQ,Valid,,,,,,
+"'- Questions about COPD (ID: 1135, External: No, Clicks: 1)",1,Answer,,,,Inaccurate,,,,,
+Rating: Yes,1,Rating,,,,,,,,,
+993cc673575e1287593ee9bbf3f3572a,1,Session,Contactus,,,Unsuccessful,,,,19/01/2026,19:47:58
+I ordered my prescription over a week ago and do not have it,1,Question,,RC,Valid,,,,,,
+"'- Request to purchase medicine or vaccine directly (ID: 961, External: No, Clicks: 0)
+- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 0)
+- Request for GSK Product Prescribing Information (ID: 1160, External: No, Clicks: 1)",1,Answer,,,,Inaccurate,,,,,
+,1,Rating,,,,,,,,,
+9ac06ac18d1cbc311589bc73b8410f9d,4,Session,Trelegy,,,Success,,,,18/01/2026,17:36:49
+Coupon information,1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+How much is the coupon good for,1,Question,,RC,Valid,,,,,,
+"'- Questions about pharmacy processing a savings offer (ID: 1182, External: No, Clicks: 0)
+- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 0)
+- Savings offer will not submit, not received or lost (ID: 1183, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+Howmuch is the trellegy coupon,1,Question,,RC,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)
+- Questions about pharmacy processing a savings offer (ID: 1182, External: No, Clicks: 0)
+- Savings offer will not submit, not received or lost (ID: 1183, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+I'm insured but my insurance will not pay for trelegy,1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)
+- Is my medicine covered under my insurance plan? (ID: 1195, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+9b31e2a7ab283668ada7f8824e3b7429,1,Session,Trelegy,,,Success,,,,24/01/2026,08:17:19
+Trelegy cost,1,Question,,RC,Valid,,,,,,
+"'- What is the cost of my medicine or vaccine? (ID: 1198, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+9b76c85936bf9d7ca63b3046901d2624,1,Session,Blujepa,,,Success,,,,20/01/2026,12:42:02
+How often can I take BLUJEPA?,1,Question,,PQ,Valid,,,,,,
+"'- What is the recommended dosage of BLUJEPA? (ID: 1720, External: No, Clicks: 0)
+- How long will I need to take BLUJEPA? (ID: 1727, External: No, Clicks: 1)
+- What is BLUJEPA? (ID: 1721, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+9b8d6cbebe91ee501988ff43d7382212,1,Session,Trelegy,,,Success,,,,21/01/2026,11:38:21
+need some help paying for my trelegy right now I pay over 600 dollars,1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+9bfaffa241e78aff6a453dee493a7429,2,Session,Contactus,,,Success,,,,23/01/2026,09:13:45
+Costco is saying the card is invalid.,1,Question,,RC,Valid,,,,,,
+"'- Questions about pharmacy processing a savings offer (ID: 1182, External: No, Clicks: 0)
+- Savings offer will not submit, not received or lost (ID: 1183, External: No, Clicks: 1)
+- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+Rating: No,1,Rating,,,,,,,,,
+My husband has COPD and is on Incruse Ellipta.  We get our scripts through mail-order at Costco.  We were refilling his Ellipta and the tech said we needed to go to the manufacturer to get a co-pay card.  I did that.  Got the card.  I just called Costco an,1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+9cbe915a71733681f8613c1fb31e162b,1,Session,Trelegy,,,Success,,,,22/01/2026,19:04:15
+I qualified but have not received a txt or email with card info,1,Question,,RC,Valid,,,,,,
+"'- Savings offer will not submit, not received or lost (ID: 1183, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+a0ed6002c4ae30901dd8346162c91212,1,Session,Contactus,,,Success,,,,20/01/2026,17:17:56
+The trelegy coupon did not have an id number,1,Question,,RC,Valid,,,,,,
+"'- Activating a Savings Offer (ID: 900, External: No, Clicks: 0)
+- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 0)
+- Savings offer will not submit, not received or lost (ID: 1183, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+a169c86f27b43a1b7a286f9d34fe3427,1,Session,TrelegyHCP,,,Success,,,,21/01/2026,17:12:32
+Wanting to see if I  could find help with my trelgy,1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)
+- Questions about GSK Patient Assistance Program (ID: 984, External: No, Clicks: 0)
+- Chat with a Human (ID: 1, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+a1fb0f597e1f7213986042714c73dcc0,1,Session,TrelegyHCP,,,Success,,,,20/01/2026,19:20:06
+Cannot afford prescription. How can I get sample?,1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)
+- GSK Prescription Samples (ID: 496, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+a2e3b91e521c07db4b599fd684dfb862,1,Session,Contactus,,,Success,,,,24/01/2026,12:03:09
+I have signed up a couple of times for the trelegy coupon but i dont receive the coupon?,1,Question,,RC,Valid,,,,,,
+"'- Savings offer will not submit, not received or lost (ID: 1183, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+a6886bfee2c3f2f12f65ac0f73111839,3,Session,NucalaHCP,,,Unsuccessful,,,,19/01/2026,12:42:52
+does it with copd,1,Question,,N/A,Invalid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 0)
+- What is NUCALA? (ID: 1737, External: No, Clicks: 0)
+- Request for Medical Advice / Recommendation (ID: 1196, External: No, Clicks: 1)",1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+how to go about getting some nucala pills,1,Question,,PQ,Valid,,,,,,
+"'- Can I receive NUCALA with other medicines? (ID: 1527, External: No, Clicks: 1)",1,Answer,,,,Inaccurate,,,,,
+,1,Rating,,,,,,,,,
+that did not answer how do i buy  nucala pills only thru my dr are saying,1,Question,,PQ,Valid,,,,,,
+"'- Chat with a Human (ID: 1, External: No, Clicks: 1)",1,Answer,,,,Inaccurate,,,,,
+,1,Rating,,,,,,,,,
+a6c90a9c538fcb89c1552ee0b925c213,1,Session,Contactus,,,Success,,,,24/01/2026,15:42:37
+unsubscribe,1,Question,,RC,Valid,,,,,,
+"'- Request to unsubscribe from GSK promotions (ID: 917, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+a6cf89ae690a6e08da2047bd2685a364,2,Session,Trelegy,,,Success,,,,19/01/2026,16:43:48
+I signed up for savings.  I did not receive the coupon.  I am NOT paying  668.00 for this rx when I have BCBS which does not  cover this meds.,1,Question,,RC,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Inaccurate,,,,,
+,1,Rating,,,,,,,,,
+I told you...I signed up on the website and have not received a coupon.,1,Question,,RC,Valid,,,,,,
+"'- Savings offer will not submit, not received or lost (ID: 1183, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+a7b05748174db793f5eb8065dd18f2b0,2,Session,Contactus,,,Success,,,,21/01/2026,13:19:20
+can trelegy  ellipta 200 be used to treat copd?,1,Question,,PQ,Valid,,,,,,
+"'- Strengths of TRELEGY ELLIPTA (ID: 1521, External: No, Clicks: 1)
+- Questions about COPD (ID: 1135, External: No, Clicks: 0)
+- What is TRELEGY ELLIPTA? (ID: 1294, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+Rating: No,1,Rating,,,,,,,,,
+is trelegy ellipta 200 used to copd,1,Question,,PQ,Valid,,,,,,
+"'- Strengths of TRELEGY ELLIPTA (ID: 1521, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+Rating: No,1,Rating,,,,,,,,,
+a813c34bb0d6f4a5eb9b682cf0691e90,2,Session,Trelegy,,,Success,,,,22/01/2026,19:33:50
+"if i had a coupon and it expired this year, how can i renew it",1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+"if i was on the program that let me pay $0 for 12 months and that 12 months is up, where can i renew this",1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+a8275d085901bdb3cc765f39ede5a9ae,1,Session,Trelegy,,,Success,,,,19/01/2026,10:09:21
+I’m looking for coupons or some help in pain for my trilogy,1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+aa33384fef6423775827a2251f1eecfb,2,Session,Contactus,,,Unsuccessful,,,,20/01/2026,15:38:06
+Shingrix vaccine vial 1 of 2 was emtpy in the box,1,Question,,PQ,Valid,,,,,,
+0,1,Answer,,,,No Answer,,,,,
+,1,Rating,,,,,,,,,
+tampered vaccine,1,Question,,PQ,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 0)
+- Request for a GSK vaccine billing code (ID: 1170, External: No, Clicks: 0)
+- Healthcare Provider Medicine or Vaccine Availability, Ordering and Pricing, Return Goods (ID: 1169, External: No, Clicks: 1)",1,Answer,,,,Inaccurate,,,,,
+,1,Rating,,,,,,,,,
+aa868c70589d8156d98f81172c61629f,1,Session,BenlystaHCP,,,Success,,,,21/01/2026,13:22:26
+I want to get into Benlysta gateway program,1,Question,,FA,Valid,,,,,,
+"'- BENLYSTA Gateway for Cost, Insurance and Other Resources (ID: 1392, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+abd6a9cc66908da9eb7da085cc785e3a,2,Session,Exdensur,,,Unsuccessful,,,,18/01/2026,00:19:48
+Jso odv,1,Question,,N/A,Invalid,,,,,,
+0,1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+What are the common heart problems,1,Question,,PQ,Valid,,,,,,
+"'- Request for Medical Advice / Recommendation (ID: 1196, External: No, Clicks: 1)",1,Answer,,,,Inaccurate,,,,,
+,1,Rating,,,,,,,,,
+ad02b0455e954dc8cc8991deadf7b2d6,1,Session,Trelegy,,,Success,,,,23/01/2026,16:18:32
+When will my coupon be sent to my email address,1,Question,,RC,Valid,,,,,,
+"'- Savings offer will not submit, not received or lost (ID: 1183, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+ad3e847644b9c02b7c0849a2c99fd8f5,1,Session,Nucala,,,Success,,,,21/01/2026,10:42:55
+Can I get help with copay,1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+af07230872bfad1f5143e2a8bb4897b8,2,Session,Benlysta,,,Success,,,,24/01/2026,10:05:17
+My employer based insurance terminates end of month. I only have 2 doses left. How can I get my medication with no insurance and little to no money?,1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+So would it be faster if my Dr enrolled me? How much would I then pay?,1,Question,,RC,Valid,,,,,,
+"'- BENLYSTA Gateway Follow-up Inquiries (ID: 1679, External: No, Clicks: 1)
+- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+af8223d5b1fc4317f103ceb6b8af23e3,2,Session,BlenrepHCP,,,Invalid,,,,19/01/2026,17:46:18
+hqiotuiwrhyhyw unyutunhng yumiuemb,1,Question,,N/A,Invalid,,,,,,
+0,1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+sufhmjywergurutiuwhr tuunwntuwuturbutbr,1,Question,,N/A,Invalid,,,,,,
+0,1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+afaa4d0fa6bd56cc34378254846a1ddd,2,Session,Contactus,,,Unsuccessful,,,,22/01/2026,22:34:19
+"Hi there, if the infant has had his first dose of bexsero at 2 months of age, and the next dose at 11 months, would that still be considered the primary doses?",1,Question,,PQ,Valid,,,,,,
+0,1,Answer,,,,No Answer,,,,,
+,1,Rating,,,,,,,,,
+human,1,Question,,LA,Valid,,,,,,
+"'- Chat with a Human (ID: 1, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+afcdbbe6e1da952dcafce62f64382e2e,7,Session,Contactus,,,Success,,,,23/01/2026,02:08:26
+Hello,1,Question,,N/A,Invalid,,,,,,
+"'- [""Hi! Tell me. What can I do for you?""] (ID: 22, External: Yes, Clicks: 1)",1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+I did try so many times but not getting,1,Question,,N/A,Invalid,,,,,,
+"'- Savings offer will not submit, not received or lost (ID: 1183, External: No, Clicks: 1)",1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+I don’t know how to get discounts cards,1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 0)
+- Questions about pharmacy processing a savings offer (ID: 1182, External: No, Clicks: 1)
+- Savings offer will not submit, not received or lost (ID: 1183, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+Rating: No,1,Rating,,,,,,,,,
+I have only  Medicare,1,Question,,N/A,Invalid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+I need help because I don’t have more inhaler for next week,1,Question,,RC,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+May I please have My Medicine free because I don’t have money at this time to buy,1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)
+- What is the cost of my medicine or vaccine? (ID: 1198, External: No, Clicks: 0)
+- Haleon Over-the-Counter Product Information (ID: 994, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+Please help me for discount card . Phone doesn’t work,1,Question,,FA,Valid,,,,,,
+"'- Savings Offer Eligibility (ID: 771, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+Rating: No,1,Rating,,,,,,,,,
+b023778bd51d94b1a93ff726537c6412,3,Session,Benlysta,,,Success,,,,20/01/2026,12:45:57
+enrollment form,1,Question,,RC,Valid,,,,,,
+"'- Request to unsubscribe from GSK promotions (ID: 917, External: No, Clicks: 0)
+- Request to participate in a GSK clinical trial (ID: 916, External: No, Clicks: 0)
+- BENLYSTA Gateway for Cost, Insurance and Other Resources (ID: 1392, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+I can't find the enrollment form to fill out now that I am without insurance,1,Question,,RC,Valid,,,,,,
+0,1,Answer,,,,No Answer,,,,,
+,1,Rating,,,,,,,,,
+I need the enrollment form,1,Question,,RC,Valid,,,,,,
+"'- Request to unsubscribe from GSK promotions (ID: 917, External: No, Clicks: 1)",1,Answer,,,,Inaccurate,,,,,
+Rating: No,1,Rating,,,,,,,,,
+b0800dbe516dca2a75957b001d8e3253,1,Session,Benlysta,,,Success,,,,23/01/2026,10:30:05
+"how much was I approved for, for the Copay program",1,Question,,RC,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+b17b2c3ee8f407cc537c5aeab42c2f40,3,Session,Trelegy,,,Success,,,,22/01/2026,12:03:23
+Discounts,1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 0)
+- Questions about pharmacy processing a savings offer (ID: 1182, External: No, Clicks: 1)
+- Savings offer will not submit, not received or lost (ID: 1183, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+I have been there even got the number but the pharmacist says that those numbers don't work,1,Question,,RC,Valid,,,,,,
+0,1,Answer,,,,No Answer,,,,,
+,1,Rating,,,,,,,,,
+I've been to the sour to get a discount card for this rx,1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+b1f18a0f7ab1103e2396dbf3532e0ba2,2,Session,Contactus,,,Unsuccessful,,,,20/01/2026,11:35:30
+agent,1,Question,,LA,Valid,,,,,,
+"'- Questions about pharmacy processing a savings offer (ID: 1182, External: No, Clicks: 1)",1,Answer,,,,Inaccurate,,,,,
+,1,Rating,,,,,,,,,
+My trelegy elipita coupon doesn’t have an ID number,1,Question,,RC,Valid,,,,,,
+"'- Questions about pharmacy processing a savings offer (ID: 1182, External: No, Clicks: 0)
+- Activating a Savings Offer (ID: 900, External: No, Clicks: 0)
+- Savings offer will not submit, not received or lost (ID: 1183, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+b222058312bd0aa2c18ade9b23227e36,1,Session,Trelegy,,,Success,,,,20/01/2026,12:05:25
+Need my coupon for Trelegy,1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 0)
+- Questions about pharmacy processing a savings offer (ID: 1182, External: No, Clicks: 0)
+- Savings offer will not submit, not received or lost (ID: 1183, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+b28a6757d85907df19943e3b269333d7,2,Session,Benlysta,,,Success,,,,22/01/2026,17:29:36
+I have had cancer will it come back if l have benlysta treatment,1,Question,,PQ,Valid,,,,,,
+"'- Does BENLYSTA cause cancer? (ID: 1436, External: No, Clicks: 0)
+- What are the common side effects of BENLYSTA? (ID: 1439, External: No, Clicks: 0)
+- What are the possible side effects of BENLYSTA? (ID: 1768, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+I have had non-hodskins lymphoma is there any chance I will get it back if l start benlysta treatment,1,Question,,PQ,Valid,,,,,,
+0,1,Answer,,,,No Answer,,,,,
+,1,Rating,,,,,,,,,
+b3512e83e8059676c618b292150e3520,1,Session,Contactus,,,Invalid,,,,23/01/2026,00:32:42
+i have rsv,1,Question,,N/A,Invalid,,,,,,
+"'- What is Respiratory Syncytial Virus Infection (RSV)? (ID: 1522, External: No, Clicks: 1)",1,Answer,,,,,,,,,
+Rating: No,1,Rating,,,,,,,,,
+b64366243dc82af8db642a6a982ff393,1,Session,Contactus,,,Success,,,,20/01/2026,11:12:42
+I need the telephone number of the patient assistance programt,1,Question,,RC,Valid,,,,,,
+"'- Questions about GSK Patient Assistance Program (ID: 984, External: No, Clicks: 0)
+- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+b76d9a04fb677b1e5e6cd7cb590e2f8d,1,Session,Contactus,,,Invalid,,,,19/01/2026,16:32:32
+What am I taking Monolukast for?,1,Question,,N/A,Invalid,,,,,#N/A,#N/A
+0,1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+b8224b73d6ab5ee45806c38324e5b8b1,2,Session,BenlystaHCP,,,Success,,,,19/01/2026,22:03:23
+How do i get a sharps container,1,Question,,RC,Valid,,,,,,
+"'- Disposing of BENLYSTA pens (ID: 1463, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+Requesting a sharp container,1,Question,,RC,Valid,,,,,,
+"'- Disposing of BENLYSTA pens (ID: 1463, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+b82fcdb3c3626c7e1e575bcac6e842d8,1,Session,Contactus,,,Unsuccessful,,DRLC,,19/01/2026,14:14:52
+connect to live agent,1,Question,,LA,Valid,,,,,,
+"'- Chat with a Human (ID: 1, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+b8334c885420d83cb501005bebb1034b,1,Session,Contactus,,,Success,,,,23/01/2026,14:12:49
+Arnuity Elilipta. Probably not spelled right but I am interested in that drug if I can get it from you for $35 a month.,1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+b886adc174e88d19cbdc0f825eddd0de,1,Session,Contactus,,,Success,,,,23/01/2026,16:15:28
+just diagnosed with RSV. have been sick on/off abt 2 weeks. how do I treat this?,1,Question,,PQ,Valid,,,,,,
+"'- What is Respiratory Syncytial Virus Infection (RSV)? (ID: 1522, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+Rating: No,1,Rating,,,,,,,,,
+b945947d32728c6e6b342b7d35233792,1,Session,Contactus,,,Success,,,,23/01/2026,13:42:05
+I signed up for a copay assistance card. Nothing has been emailed. Does it take time?,1,Question,,RC,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 0)
+- Incorrect email address submitted for savings offer (ID: 1185, External: No, Clicks: 1)
+- Savings offer will not submit, not received or lost (ID: 1183, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+Rating: Yes,1,Rating,,,,,,,,,
+baff179a75746bbb77bb0c6b43ebe39b,1,Session,Benlysta,,,Success,,,,21/01/2026,17:12:47
+What should I do if I missed two dose of Benlysta?,1,Question,,PQ,Valid,,,,,,
+"'- What do I do if I forgot to take my BENLYSTA? (ID: 597, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+bb25c5b7d79c7967b8eb5d2d780b1d6f,3,Session,Contactus,,,Success,,,,19/01/2026,09:49:31
+Looking for Side effects information,1,Question,,PQ,Valid,,,,,,
+"'- Information about medication side effects (ID: 926, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+side effects of Imitrex,1,Question,,PQ,Valid,,,,,,
+"'- Information about medication side effects (ID: 926, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+When is Imitrex prescribed?,1,Question,,PQ,Valid,,,,,,
+"'- Potential Product Quality Issue (ID: 920, External: No, Clicks: 0)
+- Request for Medical Advice / Recommendation (ID: 1196, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+bca73e031469a98045c89716a7baef48,1,Session,Trelegy,,,Success,,,,22/01/2026,13:38:49
+I can’t afford my trelegy and my coupon has expired,1,Question,,RC,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)
+- Questions about pharmacy processing a savings offer (ID: 1182, External: No, Clicks: 0)
+- Can I use this product past the expiration date? (ID: 1163, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+be1e8b1800671513d60a29cfed687cce,1,Session,Contactus,,,Success,,,,24/01/2026,08:04:44
+How many puff are in trelogy,1,Question,,PQ,Valid,,,,,,
+"'- TRELEGY ELLIPTA Number of Doses Explanation (ID: 1197, External: No, Clicks: 1)
+- Should I always taste or feel the dose of TRELEGY ELLIPTA? (ID: 1187, External: No, Clicks: 0)
+- Strengths of TRELEGY ELLIPTA (ID: 1521, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+Rating: Yes,1,Rating,,,,,,,,,
+be6323cfb24fe4b39f70200cfa2d55a2,1,Session,Trelegy,,,Success,,,,24/01/2026,08:57:59
+I applied for a coupon. They said they were sending it to my email for zero co-pay and I never received it. Does it take a few days,1,Question,,RC,Valid,,,,,,
+"'- Savings offer will not submit, not received or lost (ID: 1183, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+be7489b2136de8a6180ee68dc296588b,1,Session,Mybreo,,,Unsuccessful,,,,22/01/2026,19:44:27
+how do you load the dose,1,Question,,PQ,Valid,,,,,,
+"'- Questions about pharmacy processing a savings offer (ID: 1182, External: No, Clicks: 1)",1,Answer,,,,Inaccurate,,,,,
+Rating: No,1,Rating,,,,,,,,,
+bfc18aaba64e2b1fd07295edbc49e7f2,1,Session,Trelegy,,,Success,,,,21/01/2026,18:07:06
+"Trying to get help with this medication, trelegy or a cheaper cost I have Blue Shield Blue Cross insurance and my co-pay is 40. I was wondering if I can get some assistant with the 40",1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+c0648e577ffe395210e255ad95b4a8bb,1,Session,Contactus,,,Success,,,,21/01/2026,12:03:31
+Need if number for trelegy coupon,1,Question,,RC,Valid,,,,,,
+"'- Activating a Savings Offer (ID: 900, External: No, Clicks: 1)
+- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 0)
+- Questions about pharmacy processing a savings offer (ID: 1182, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+c1581530f6fdc622c38f17279cf85bd9,2,Session,Contactus,,,Unsuccessful,,,,20/01/2026,13:10:15
+Can I take a decongestant with tregally,1,Question,,PQ,Valid,,,,,,
+0,1,Answer,,,,No Answer,,,,,
+,1,Rating,,,,,,,,,
+I have a cold or flu should I still use tregally,1,Question,,PQ,Valid,,,,,,
+"'- Questions about GSK Patient Assistance Program (ID: 984, External: No, Clicks: 0)
+- How to find a Flu Vaccine (ID: 1307, External: No, Clicks: 0)
+- How can I tell if I have uncomplicated Urinary Tract Infection (uUTI)? (ID: 1739, External: No, Clicks: 0)",1,Answer,,,,Inaccurate,,,,,
+,1,Rating,,,,,,,,,
+c1e203d2df8cda7c9ade7996d3e09e41,1,Session,Contactus,,,Success,,,,23/01/2026,11:33:07
+Is there a program that can provide me with trelegy for free or a reduced rate?,1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)
+- What is the cost of my medicine or vaccine? (ID: 1198, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+c22bd8cf6315fac4ce44a5ee00e59ea2,1,Session,Trelegy,,,Success,,,,22/01/2026,09:10:28
+I’ve been on Trelegy for years but with insurance it went up to $300 a month. I can’t afford that. Please help me,1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+c31c5c9f418ca09b554ab9cd54b17f28,1,Session,Trelegy,,,Success,,,,21/01/2026,18:50:07
+"I take trelegy for copd, last year i got it free now i am told i have to pay $445 a month is there any help?",1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+c38bd438d5ced6393066e6e0020be4c4,1,Session,Contactus,,,Success,,,,20/01/2026,11:48:44
+I need assistance with my benlysta discount card that I believe needs to be renewed,1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+c3942b8aeafc0fb27e7bb5bbf6d2aed2,2,Session,Shingrix,,,Success,,,,24/01/2026,09:07:44
+how long do I have to wait after having shingles to get the vaccine,1,Question,,PQ,Valid,,,,,,
+"'- Can a patient receive SHINGRIX while they have shingles? (ID: 1122, External: No, Clicks: 1)
+- If a patient 50 years or older just had a case of shingles, how long do they have to wait to get the SHINGRIX vaccination? (ID: 1109, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+How long do I have to wait after having shingles to get the vaccine?,1,Question,,PQ,Valid,,,,,,
+"'- Can a patient receive SHINGRIX while they have shingles? (ID: 1122, External: No, Clicks: 0)
+- If a patient 50 years or older just had a case of shingles, how long do they have to wait to get the SHINGRIX vaccination? (ID: 1109, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+Rating: Yes,1,Rating,,,,,,,,,
+c3de7674114d5fc547f91c12c24fb67b,3,Session,Trelegy,,,Success,,,,20/01/2026,21:49:54
+How much does this cover?,1,Question,,RC,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 0)
+- Questions about pharmacy processing a savings offer (ID: 1182, External: No, Clicks: 0)
+- What is the cost of my medicine or vaccine? (ID: 1198, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+What is the cost of my medicine?,1,Question,,RC,Valid,,,,,#N/A,#N/A
+"'- What is the cost of my medicine or vaccine? (ID: 1198, External: No, Clicks: 1)
+- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+What is the maximum annual benefit?,1,Question,,RC,Valid,,,,,,
+0,1,Answer,,,,No Answer,,,,,
+,1,Rating,,,,,,,,,
+c3f6d7bf1d926a44c1bd72c42c633c99,2,Session,Contactus,,,Invalid,,,,24/01/2026,11:29:47
+Already got the second shot,1,Question,,N/A,Invalid,,,,,,
+"'- Request for General Information about Vaccines (ID: 1227, External: No, Clicks: 1)",1,Answer,,,,,,,,,
+Rating: No,1,Rating,,,,,,,,,
+I received this text today. I have already had the second shot,1,Question,,N/A,Invalid,,,,,,
+0,1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+c4189b9ff4d08b88ed197db5fb19452e,1,Session,Contactus,,,Success,,,,21/01/2026,16:52:38
+I try to find coupons covered my Trelegy medication,1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+c536eeb95603650853137f2c53fd9977,1,Session,Trelegy,,,Success,,,,18/01/2026,16:25:35
+Is there any other help with a prescription when you are on government insurance in on social security and i can't afford $270.00 for the medication or is there another medication that is equivalent to Trelegy?,1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+c57de2c790a28cefb55df242d2441367,1,Session,Contactus,,,Success,,,,20/01/2026,19:30:19
+i just signed up and accidentally deleted the email.  can u resend it,1,Question,,RC,Valid,,,,,,
+"'- Savings offer will not submit, not received or lost (ID: 1183, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+c87dea691f20a923f30539de768ba6ea,2,Session,Contactus,,,Success,,,,23/01/2026,17:12:41
+How do I sign up for the Trelegy copay card,2,Question,,FA,Valid,,,,,,
+"'- Savings offer will not submit, not received or lost (ID: 1183, External: No, Clicks: 0)
+- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 0)",2,Answer,,,,Accurate,,,,,
+,2,Rating,,,,,,,,,
+c9c4ff8af2ebc6d61113c07d83012513,1,Session,Trelegy,,,Success,,,,21/01/2026,16:16:24
+Do you have any discounts for Trelegy?,1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+cab54914bb7059d049a575bcc1cdd2eb,1,Session,Trelegy,,,Success,,,,20/01/2026,13:55:30
+I DID NOT GET TO PRINT MY COUPIN CARD,1,Question,,RC,Valid,,,,,,
+"'- Savings offer will not submit, not received or lost (ID: 1183, External: No, Clicks: 1)
+- Questions about pharmacy processing a savings offer (ID: 1182, External: No, Clicks: 0)
+- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+cbd7ac69f354cbce29e7efc98a845b54,1,Session,Trelegy,,,Success,,,,22/01/2026,13:28:31
+Do you offer veterans discounts,1,Question,,FA,Valid,,,,,,
+"'- Savings Offer Eligibility (ID: 771, External: No, Clicks: 1)
+- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+Rating: No,1,Rating,,,,,,,,,
+cc9532efb13d19083dd65c6026a44b47,1,Session,BenlystaHCP,,,Success,,,,20/01/2026,15:03:18
+Co Pay assistance,1,Question,,FA,Valid,,,,,,
+"'- BENLYSTA Gateway for Cost, Insurance and Other Resources (ID: 1392, External: No, Clicks: 1)
+- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 0)
+- What is the Independent Foundation support tool? (ID: 1767, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+ccf00234c8ee793f7d3c0e2c45e62c99,1,Session,Advair,,,Success,,,,19/01/2026,08:58:29
+How can I order a demonstration inhaler for patient counseling?,1,Question,,RC,Valid,,,,,,
+"'- Where can I get a demonstration device? (ID: 908, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+cda27ea11f60fc4a9d2487f950a5df2b,1,Session,Contactus,,,Success,,,,22/01/2026,16:24:32
+"Last year I had a discount card that allowed me to get my trilogy for a zero dollar co-pay, but apparently it has expired. May I get another one for this year?",1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+ce5cc53d4c4af7f0ca5db688deb33073,2,Session,Contactus,,,Unsuccessful,,,,21/01/2026,09:19:54
+agent,1,Question,,LA,Valid,,,,,,
+"'- Chat with a Human (ID: 1, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+I recently submitted a report of a malfunctioning inhaler. Will I be sent a replacement?,1,Question,,PQ,Valid,,,,,,
+0,1,Answer,,,,No Answer,,,,,
+,1,Rating,,,,,,,,,
+ce99ab38addc6dfef571896a503bc6ef,2,Session,Shingrix,,,Unsuccessful,,,,18/01/2026,17:32:04
+Can I still get shingles after having the vaccination?,1,Question,,PQ,Valid,,,,,,
+"'- Can a patient receive SHINGRIX while they have shingles? (ID: 1122, External: No, Clicks: 0)
+- If a patient 50 years or older just had a case of shingles, how long do they have to wait to get the SHINGRIX vaccination? (ID: 1109, External: No, Clicks: 0)
+- If a patient 50 years or older already had shingles, can they still get vaccinated with SHINGRIX? (ID: 1192, External: No, Clicks: 0)",1,Answer,,,,Inaccurate,,,,,
+,1,Rating,,,,,,,,,
+"I had the vaccination in 2021, can I get shingles now?",1,Question,,PQ,Valid,,,,,,
+"'- If a patient 50 years or older already had shingles, can they still get vaccinated with SHINGRIX? (ID: 1192, External: No, Clicks: 0)
+- Can a patient receive SHINGRIX while they have shingles? (ID: 1122, External: No, Clicks: 0)
+- If a patient 50 years or older just had a case of shingles, how long do they have to wait to get the SHINGRIX vaccination? (ID: 1109, External: No, Clicks: 0)",1,Answer,,,,Inaccurate,,,,,
+,1,Rating,,,,,,,,,
+cf33fb5fd7bedd696ac037d322f065f6,1,Session,Contactus,,,Success,,,,20/01/2026,20:19:27
+Need to chat with a person about renewing my gsk trellegy coupon for 2026,1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 0)
+- How to use TRELEGY ELLIPTA (ID: 1616, External: No, Clicks: 0)
+- Activating a Savings Offer (ID: 900, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+Rating: No,1,Rating,,,,,,,,,
+cfac899f96e88e0b7a3859fcdbcedcf0,1,Session,Anoro,,,Success,,,,23/01/2026,19:16:25
+Manufacturer coupons,1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+cff9d312c072687833db501cec8c59f6,1,Session,Shingrix,,,Success,,,,22/01/2026,11:05:37
+"I had my 1st shingles vaccine, but can not remember when I got it, my 2nd vaccine I was supposed to get in November, but, wasn't able to, what do I need to do",1,Question,,PQ,Valid,,,,,,
+"'- What should a patient do if their second dose of SHINGRIX is later than six months after receiving the first dose? (ID: 1191, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+Rating: Yes,1,Rating,,,,,,,,,
+d0cf4c1730e039d1233d15e751bbeffc,1,Session,OjjaaraHCP,,,Success,,,,23/01/2026,20:37:28
+What are the known side effects of Ojjarra?  Dors it include stomach diy?,1,Question,,PQ,Valid,,,,,,
+"'- Information about medication side effects (ID: 926, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+d1ab5a841ac49d306b98597649142c2c,1,Session,Trelegy,,,Success,,,,19/01/2026,12:15:20
+"I was on covered california until October when the premium went way up and i could no longer afford it, so i had to let it go. At the time i had a 3 month supply of Trelegy, and now I'm out and desperately needing it",1,Question,,FA,Valid,,,,,,
+"'- Dosing instructions for TRELEGY ELLIPTA (ID: 1101, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+Rating: No,1,Rating,,,,,,,,,
+d20eb2a316c49ab27c75cd1f635bde0a,2,Session,Trelegy,,,Unsuccessful,,,,21/01/2026,08:49:08
+agent,1,Question,,LA,Valid,,,,,,
+"'- Chat with a Human (ID: 1, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+Co-pay information,1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 0)
+- Questions about pharmacy processing a savings offer (ID: 1182, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+d25b44486838d74a5325ae0c0c95e864,1,Session,Trelegy,,,Success,,,,19/01/2026,00:20:27
+Do you offer discounts ?,1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)
+- Why is a savings offer not available? (ID: 952, External: No, Clicks: 0)
+- Activating a Savings Offer (ID: 900, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+d3150f41cb6f1d5b3a03abcfcb683374,1,Session,Trelegy,,,Success,,,,19/01/2026,18:53:00
+Can't find my coupon,1,Question,,RC,Valid,,,,,,
+"'- Savings offer will not submit, not received or lost (ID: 1183, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+d4c2ac78f41f1605aba5bd8e1932df9f,1,Session,Contactus,,,Success,,,,20/01/2026,15:27:50
+I have Medicare plus Blue Cross insurance.  Is there a coupon or some other way to lower my cost of my Trelegy medication?,1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+d53bd694efff25d23f8e4c01b7785367,1,Session,Trelegy,,,Success,,,,22/01/2026,14:22:34
+Cheaper cost for Trelegy,1,Question,,FA,Valid,,,,,,
+"'- What is the cost of my medicine or vaccine? (ID: 1198, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+Rating: Yes,1,Rating,,,,,,,,,
+d58b251a597910ed2041d8acec2702d4,1,Session,Contactus,,,Unsuccessful,,,,22/01/2026,15:55:23
+Need the correct NDC for Hiberix as we are getting denial,1,Question,,PQ,Valid,,,,,,
+"'- Questions about pharmacy processing a savings offer (ID: 1182, External: No, Clicks: 1)",1,Answer,,,,Inaccurate,,,,,
+Rating: No,1,Rating,,,,,,,,,
+d5d854f775cfd8eef3f7a319bbd8332a,2,Session,Trelegy,,,Unsuccessful,,,,20/01/2026,17:49:39
+"I am having trouble getting the cost savings program page to complete. I have input my informal, but it won't go to the next page",1,Question,,RC,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Inaccurate,,,,,
+,1,Rating,,,,,,,,,
+The page wont load,1,Question,,N/A,Invalid,,,,,,
+"'- Questions about pharmacy processing a savings offer (ID: 1182, External: No, Clicks: 1)",1,Answer,,,,,,,,,
+Rating: No,1,Rating,,,,,,,,,
+d82af02c138f257f835d4ecbba988f35,1,Session,Benlysta,,,Success,,,,23/01/2026,11:26:13
+copay program for Benlysta with plan that it is not covered,1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 0)
+- BENLYSTA Gateway for Cost, Insurance and Other Resources (ID: 1392, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+d8459893f8028c7064953f286fc92dee,1,Session,Mybreo,,,Success,,,,20/01/2026,10:06:14
+I am looking for breo ellipta manufacturer savings card/discount,1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+d8e2677c142fcb97205e0ef81dde00da,1,Session,TrelegyHCP,,,Success,,,,20/01/2026,18:11:50
+"I have an unopened Trelegy ellipta inhaler, it has not been taken out of it's foil wrapper, but it has expired is it still good",1,Question,,PQ,Valid,,,,,,
+"'- Can I use this product past the expiration date? (ID: 1163, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+Rating: Yes,1,Rating,,,,,,,,,
+d9dde5a3e8fe993e27a1fcadf8d827a5,1,Session,Trelegy,,,Unsuccessful,,,,23/01/2026,17:25:21
+I WANT TO GET A SAVINGS CARD FOR TRELEGY,1,Question,,FA,Valid,,,,,,
+"'- Activating a Savings Offer (ID: 900, External: No, Clicks: 1)",1,Answer,,,,Inaccurate,,,,,
+Rating: No,1,Rating,,,,,,,,,
+d9de223e0c765dc1774f39a9fdd49f52,1,Session,Trelegy,,,Success,,,,23/01/2026,12:13:01
+Need my copay card numbers,1,Question,,FA,Valid,,,,,,
+"'- Questions about pharmacy processing a savings offer (ID: 1182, External: No, Clicks: 0)
+- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 0)
+- Activating a Savings Offer (ID: 900, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+dae9128a875bd4f952d533e0f9c1e8b4,1,Session,Exdensur,,,Unsuccessful,,,,19/01/2026,15:05:39
+What is Albuteral?,1,Question,,PQ,Valid,,,,,,
+"'- How should I dispose of my medicine? (ID: 1162, External: No, Clicks: 1)",1,Answer,,,,Inaccurate,,,,,
+Rating: No,1,Rating,,,,,,,,,
+dd2967e4193df318aa8f7a4dd304fef2,2,Session,Contactus,,,Success,,,,19/01/2026,09:53:32
+diskus demonstration devic,1,Question,,RC,Valid,,,,,,
+"'- Where can I get a demonstration device? (ID: 908, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+I would like to order a diskus demonstor for patient counseling,1,Question,,RC,Valid,,,,,,
+0,1,Answer,,,,No Answer,,,,,
+,1,Rating,,,,,,,,,
+dd9295a6149c5cf0188064966bee40a3,2,Session,Trelegy,,,Success,,,,23/01/2026,12:16:05
+IS US RESIDENTS NOT ELIGIBLE,1,Question,,RC,Valid,,,,,,
+"'- Savings Offer Eligibility (ID: 771, External: No, Clicks: 1)
+- Questions about GSK Patient Assistance Program (ID: 984, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+Rating: No,1,Rating,,,,,,,,,
+WHY AM I NOT RECEIVING THE CARD ON EMAIL,1,Question,,RC,Valid,,,,,,
+"'- Savings offer will not submit, not received or lost (ID: 1183, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+de14afcc618b5385a138c81d3cff839e,2,Session,Trelegy,,,Success,,,,22/01/2026,19:01:56
+I was on your program and I got it free every month for a year.And I need to renew it again.How do I go about it,1,Question,,RC,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+Tricia,1,Question,,N/A,Invalid,,,,,,
+0,1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+de1bd3d847f47ce0fc125076d0549f05,1,Session,Contactus,,,Success,,,,22/01/2026,19:53:28
+requesting rep for samples,1,Question,,RC,Valid,,,,,,
+"'- HCP Sample Request (ID: 1650, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+de6c5485534f86e425c08ed7e375a5ad,1,Session,Contactus,,,Success,,,,23/01/2026,09:04:26
+Need to order Nucala demo pen,1,Question,,RC,Valid,,,,,,
+"'- Where can I get a demonstration device? (ID: 908, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+de9aeaa30f8bc3f08f9d215c135cb25c,2,Session,Benlysta,,,Success,,,,20/01/2026,08:58:06
+My debit card for my rx isn’t working. Do I need to reapply for the 2026 year?,1,Question,,RC,Valid,,,,,,
+0,1,Answer,,,,No Answer,,,,,
+,1,Rating,,,,,,,,,
+My prescription discount program debit card isn’t workkng,1,Question,,RC,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+ded3c279381f6941ce365ddc496003e8,1,Session,Contactus,,,Success,,,,19/01/2026,14:35:09
+Application status,1,Question,,RC,Valid,,,,,,
+"'- Questions about GSK Patient Assistance Program (ID: 984, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+e0118f34d476350f3b660d11ea440b39,1,Session,Contactus,,,Unsuccessful,,DRLC,,19/01/2026,11:28:44
+Live agent,1,Question,,LA,Valid,,,,,,
+"'- Chat with a Human (ID: 1, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+e07d32780b3a71c455f8ca9627544550,1,Session,Trelegy,,,Success,,,,24/01/2026,14:08:38
+When will I receive my coupon????,1,Question,,RC,Valid,,,,,,
+"'- Savings offer will not submit, not received or lost (ID: 1183, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+e0e2b7b3a0b5ae8af2c421348f5d7844,3,Session,Nucala,,,Success,,,,23/01/2026,09:03:54
+Need phone number for co-pay assistance,1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)
+- Together with NUCALA Follow-up Inquiries (ID: 1680, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+Need phone number to call,1,Question,,N/A,Invalid,,,,,,
+"'- Request for Medical Advice / Recommendation (ID: 1196, External: No, Clicks: 0)
+- Inquiries about GSK outside the United States (ID: 1252, External: No, Clicks: 0)",1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+The phone number went off the screen to call before I got it wrote down,1,Question,,N/A,Invalid,,,,,,
+0,1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+e1359ccc87c315ef734d592254d2b9a0,1,Session,Trelegy,,,Success,,,,23/01/2026,19:39:22
+Ddo u still offer a discount card when u have a comerical insurance,1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+e177db6da1f394e1a81c2e4b95f4bc8e,2,Session,Contactus,,,Invalid,,,,18/01/2026,17:25:52
+can't take generic,1,Question,,N/A,Invalid,,,,,,
+"'- Questions about the availability of generic medicines (ID: 1251, External: No, Clicks: 1)",1,Answer,,,,,,,,,
+Rating: No,1,Rating,,,,,,,,,
+questions about Advair,1,Question,,N/A,Invalid,,,,,,
+"'- Questions about Asthma (ID: 953, External: No, Clicks: 0)
+- Questions about the availability of generic medicines (ID: 1251, External: No, Clicks: 0)
+- What is the cost of my medicine or vaccine? (ID: 1198, External: No, Clicks: 0)",1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+e1aa9e41b6789c926f362a60ef741955,2,Session,Contactus,,,Success,,,,21/01/2026,13:26:30
+Can I use the price cap more than 12 times?,1,Question,,FA,Valid,,,,,,
+"'- Potential Product Quality Issue (ID: 920, External: No, Clicks: 0)
+- Questions about GSK Patient Assistance Program (ID: 984, External: No, Clicks: 1)",1,Answer,,,,Inaccurate,,,,,
+,1,Rating,,,,,,,,,
+I currently take Anoro Ellipta using the 35 dollar price cap. I have used it 12 times. Do I need a new coupon to continue getting the 35 dollar price?,1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+e40db49b6fe8421fc526a3fbc1dbe428,1,Session,Benlysta,,,Unsuccessful,,DRLC,,23/01/2026,12:50:08
+agent,1,Question,,LA,Valid,,,,,,
+"'- Chat with a Human (ID: 1, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+e50c187deb0ae43c3047167b0848fefa,1,Session,Contactus,,,Unsuccessful,,DRLC,,22/01/2026,14:57:07
+agent,1,Question,,LA,Valid,,,,,,
+"'- Chat with a Human (ID: 1, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+e7d2e119019d13283356c85e0bc45691,1,Session,NucalaHCP,,,Invalid,,,,19/01/2026,10:09:49
+Ok,1,Question,,N/A,Invalid,,,,,,
+"'- [""Hey.""] (ID: 142, External: Yes, Clicks: 1)",1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+e950ea31c9430bccd618d88b92846948,1,Session,Trelegy,,,Invalid,,,,24/01/2026,17:51:27
+With medication,1,Question,,N/A,Invalid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)
+- Information about medication side effects (ID: 926, External: No, Clicks: 0)
+- Request for Medical Advice / Recommendation (ID: 1196, External: No, Clicks: 0)",1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+ea16bdcb6c02549acdd73f0168459bc2,1,Session,Contactus,,,Success,,,,19/01/2026,11:28:20
+How does one become a distributor for vaccines in Iraq,1,Question,,RC,Valid,,,,,,
+"'- Inquiries about GSK outside the United States (ID: 1252, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+Rating: No,1,Rating,,,,,,,,,
+ea193b518e257d40e802081ce2db83a1,1,Session,Trelegy,,,Success,,,,20/01/2026,11:02:16
+I would like the discount on my medication,1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+ea8b3c7741c60158cbfca6fb466383ef,1,Session,Contactus,,,Success,,,,20/01/2026,11:49:17
+"can I use the ""pay no more than $35"" coupon for my cat's inhaler?",1,Question,,RC,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 0)
+- Using a savings offer for an animal (ID: 901, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+ead5326e126cddbf93ae3a34dc21b56d,1,Session,Contactus,,,Unsuccessful,,DRLC,,22/01/2026,10:37:17
+I need to speak to customer service,1,Question,,LA,Valid,,,,,,
+"'- Chat with a Human (ID: 1, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+eb046e5784ad65a22d340b64dd010a3d,4,Session,Contactus,,,Unsuccessful,,,,20/01/2026,08:50:34
+agent,1,Question,,LA,Valid,,,,,,
+"'- Chat with a Human (ID: 1, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+device not working,1,Question,,PQ,Valid,,,,,,
+"'- Potential Product Quality Issue (ID: 920, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+help,1,Question,,N/A,Invalid,,,,,,
+"'- [""Helping you is my #1 priority. What would you like to know?""] (ID: 18, External: Yes, Clicks: 1)",1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+venolin inhaler,1,Question,,N/A,Invalid,,,,,,
+"'- How to Clean the VENTOLIN HFA Inhaler (ID: 1201, External: No, Clicks: 0)
+- VENTOLIN HFA Instructions for Use (ID: 992, External: No, Clicks: 0)
+- What is the cost of my medicine or vaccine? (ID: 1198, External: No, Clicks: 0)",1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+eba9fc7c4276253a12cbefc7e3423b2a,1,Session,Contactus,,,Success,,,,20/01/2026,15:46:03
+"If I don’t have insurance, how much would it cost to get the shingles vaccine through you",1,Question,,RC,Valid,,,,,,
+"'- SHINGRIX cost for uninsured patient and where to receive it (ID: 1528, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+ebbb69522d18af637699cffc4c68521b,1,Session,Advair,,,Unsuccessful,,,,21/01/2026,17:13:36
+I was wondering if you had any coupons,1,Question,,FA,Valid,,,,,,
+"'- Savings offer will not submit, not received or lost (ID: 1183, External: No, Clicks: 1)",1,Answer,,,,Inaccurate,,,,,
+Rating: Yes,1,Rating,,,,,,,,,
+ec70f7d94007923840ac597d1ea85c28,1,Session,Contactus,,,Unsuccessful,,,,22/01/2026,13:43:31
+i need help with the financial assistane,1,Question,,FA,Valid,,,,,,
+"'- Chat with a Human (ID: 1, External: No, Clicks: 1)",1,Answer,,,,Inaccurate,,,,,
+,1,Rating,,,,,,,,,
+ed5c365382f45dadce08f9be5cdee00c,1,Session,Trelegy,,,Unsuccessful,,,,20/01/2026,13:46:40
+How can I get a new coupon?,1,Question,,FA,Valid,,,,,,
+"'- Questions about pharmacy processing a savings offer (ID: 1182, External: No, Clicks: 1)",1,Answer,,,,Inaccurate,,,,,
+,1,Rating,,,,,,,,,
+ed6c7c16bbe980741182506b9cbf58ed,1,Session,Contactus,,,Success,,,,24/01/2026,11:25:51
+My copay assistance was declined,1,Question,,RC,Valid,,,,,#N/A,#N/A
+"'- Questions about pharmacy processing a savings offer (ID: 1182, External: No, Clicks: 1)
+- Savings Offer Eligibility (ID: 771, External: No, Clicks: 0)
+- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+edeff7cdd0d730beb9455fc23c82c729,1,Session,Contactus,,,Success,,,,20/01/2026,11:45:42
+Samples for Sumatriptan Nasal Spray,1,Question,,RC,Valid,,,,,,
+"'- HCP Sample Request (ID: 1650, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+ef807e91dae83ad1119874cc4988624b,1,Session,Contactus,,,Invalid,,,,22/01/2026,10:26:00
+trelegy,1,Question,,N/A,Invalid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 0)
+- Questions about GSK Patient Assistance Program (ID: 984, External: No, Clicks: 0)
+- HCP Sample Request (ID: 1650, External: No, Clicks: 1)",1,Answer,,,,,,,,,
+Rating: Yes,1,Rating,,,,,,,,,
+f094ec0c9abc7f4fc73940cd1e5f81d1,1,Session,Mybreo,,,Success,,,,19/01/2026,10:32:52
+Is there a manufacturer coupon for breo for asthma,1,Question,,FA,Valid,,,,,,
+"'- Manufacturing Site Inquiries (ID: 932, External: No, Clicks: 0)
+- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)
+- Request to purchase medicine or vaccine directly (ID: 961, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+f31d51b1de9e584488f6110ae0e0d692,1,Session,Contactus,,,Success,,,,18/01/2026,15:51:05
+"I am 66 and still working . My insurance covers all but $200.00 , I have qualified for your program in the past. Do I meet the criteria",1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+f34768257b0c652e27fc69f9c75f9319,2,Session,Contactus,,,Success,,,,20/01/2026,21:07:26
+I am currently receiving a savings card through GSK I would like to know if it has expired and I need two request a new,1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+My name is Deletta Noe I would like to know if my assistance card has expired. Thank you,1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+f3b758459067ffd1c53b38e70df0aee9,1,Session,Jemperli,,,Invalid,,,,22/01/2026,16:00:19
+After menopause couple of years began otting,1,Question,,N/A,Invalid,,,,,,
+0,1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+f4626332ee964e1ac597528cac53b7fb,1,Session,NucalaHCP,,,Success,,,,21/01/2026,08:56:52
+Would it be safe to get a shingles vaccination the day before my scheduled nucala injection?,1,Question,,PQ,Valid,,,,,,
+"'- Receiving the shingles vaccine while taking NUCALA (ID: 1264, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+f4671eaca9944a6b5f88896e5921c60b,2,Session,Contactus,,,Unsuccessful,,,,19/01/2026,14:59:33
+agent,1,Question,,LA,Valid,,,,,,
+"'- Chat with a Human (ID: 1, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+my ventolin inhaler doesnt work,1,Question,,PQ,Valid,,,,,,
+"'- Potential Product Quality Issue (ID: 920, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+f4c5e9e490f01ef31ac346e5f79b1590,1,Session,Trelegy,,,Success,,,,21/01/2026,12:43:46
+Trying to see if I can get a coupons,1,Question,,FA,Valid,,,,,,
+"'- Savings offer will not submit, not received or lost (ID: 1183, External: No, Clicks: 0)
+- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 0)
+- Savings Offer Eligibility (ID: 771, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+f4c8701b3200e30bb95f80ed0b7bc51d,1,Session,Contactus,,,Invalid,,,,21/01/2026,10:41:31
+HCP,1,Question,,N/A,Invalid,,,,,,
+"'- GSK Healthcare Professional Website Portal (ID: 1186, External: No, Clicks: 0)
+- HCP Consentment Validation (ID: 1280, External: No, Clicks: 1)",1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+f718fc21a01d0cf372127503cef382e8,1,Session,Contactus,,,Success,,,,20/01/2026,12:02:41
+I want to confirm if a patient has been reenrolled in Jemperli copay assistance program for 2026,1,Question,,RC,Valid,,,,,,
+"'- Do I need to enroll in the GSK Patient Support Program in order to receive the product? (ID: 1763, External: No, Clicks: 0)
+- Together with GSK JEMPERLI (ID: 1758, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+f737e8c561eb9e5d512d1d697a24c3eb,1,Session,Contactus,,,Invalid,,,,19/01/2026,18:19:16
+email contact informationm,1,Question,,N/A,Invalid,,,,,,
+"'- Accounts Payable / Accounts Receivable Contact Information (ID: 1308, External: No, Clicks: 0)
+- GSK Human Resources Service Center (ID: 944, External: No, Clicks: 1)",1,Answer,,,,,,,,,
+Rating: No,1,Rating,,,,,,,,,
+f78270cafb8d9b30e2cf5192757738dc,1,Session,Contactus,,,Unsuccessful,,,,24/01/2026,18:56:07
+"I have been taking this medication for years, I applied for the coupon as usual but now the pharmacy is telling me that the system won’t except it because of my age.",1,Question,,RC,Valid,,,,,,
+"'- Savings offer will not submit, not received or lost (ID: 1183, External: No, Clicks: 0)
+- Why is my pharmacy refusing to accept the savings offer? (ID: 902, External: No, Clicks: 1)
+- Questions about GSK Patient Assistance Program (ID: 984, External: No, Clicks: 0)",1,Answer,,,,Inaccurate,,,,,
+Rating: No,1,Rating,,,,,,,,,
+f819a3c3f2f56e031e254586651b01dd,1,Session,Contactus,,,Success,,,,22/01/2026,15:31:26
+How can I get breo demo inhalers?,1,Question,,RC,Valid,,,,,,
+"'- Where can I get a demonstration device? (ID: 908, External: No, Clicks: 1)
+- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 0)
+- Potential Product Quality Issue (ID: 920, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+f91dc401a912d3d82303ed5e761518d2,1,Session,Trelegy,,,Success,,,,21/01/2026,14:32:23
+Need an updated grp number on a trelegy copay card for a patient,1,Question,,RC,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+fac081712c01bcb2178c9db5e4e61267,1,Session,Mybreo,,,Success,,,,20/01/2026,14:44:55
+Do you sample Breo,1,Question,,RC,Valid,,,,,,
+"'- HCP Sample Request (ID: 1650, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+faef822c4ab70195684e5b29509c2892,1,Session,Exdensur,,,Unsuccessful,,,,18/01/2026,09:31:45
+What is spiriva inhaler used for fo,1,Question,,PQ,Valid,,,,,,
+"'- Questions about GSK Patient Assistance Program (ID: 984, External: No, Clicks: 1)",1,Answer,,,,Inaccurate,,,,,
+Rating: No,1,Rating,,,,,,,,,
+fb0f2d187cb84394bb04bbcc13b0b465,2,Session,Exdensur,,,Unsuccessful,,,,21/01/2026,15:10:52
+How does it work?,1,Question,,PQ,Valid,,,,,,
+"'- Potential Product Quality Issue (ID: 920, External: No, Clicks: 0)
+- Savings Offer Eligibility (ID: 771, External: No, Clicks: 0)
+- Questions about pharmacy processing a savings offer (ID: 1182, External: No, Clicks: 0)",1,Answer,,,,Inaccurate,,,,,
+Rating: No,1,Rating,,,,,,,,,
+What is the MOA (mechanism of action)?,1,Question,,PQ,Valid,,,,,,
+0,1,Answer,,,,No Answer,,,,,
+,1,Rating,,,,,,,,,
+fbd664d663a6a2c4b2da9b015fd7ad4c,2,Session,Benlysta,,,Unsuccessful,,,,22/01/2026,02:40:16
+I have a lot of pain especially in my arms and lens,1,Question,,PQ,Valid,,,,,,
+0,1,Answer,,,,No Answer,,,,,
+,1,Rating,,,,,,,,,
+I. Have a lot of po,1,Question,,N/A,Invalid,,,,,,
+0,1,Answer,,,,,,,,,
+,1,Rating,,,,,,,,,
+fbdc7950ba453729c9467bd894bc5f5d,1,Session,Contactus,,,Success,,,,22/01/2026,10:45:08
+Human resources,1,Question,,RC,Valid,,,,,,
+"'- GSK Human Resources Service Center (ID: 944, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+Rating: No,1,Rating,,,,,,,,,
+fc0bbe8c3ca51331a44da6b5a98d29c5,1,Session,Contactus,,,Success,,,,22/01/2026,10:20:51
+"I applied for a trelegy coupon and said it was granted, but I never received the information",1,Question,,RC,Valid,,,,,,
+"'- Savings offer will not submit, not received or lost (ID: 1183, External: No, Clicks: 1)
+- How to use TRELEGY ELLIPTA (ID: 1616, External: No, Clicks: 0)
+- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+febb647605af31c23084dbfb0fa67b9e,1,Session,Trelegy,,,Success,,,,23/01/2026,04:40:28
+How can I try trilogy,1,Question,,RC,Valid,,,,,,
+"'- How to use TRELEGY ELLIPTA (ID: 1616, External: No, Clicks: 0)
+- Ingredients in TRELEGY ELLIPTA (ID: 1099, External: No, Clicks: 0)
+- What is TRELEGY ELLIPTA? (ID: 1294, External: No, Clicks: 0)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+fec3f62d08ea93008be71c7ee00e93d9,1,Session,Contactus,,,Success,,,,23/01/2026,13:33:31
+I’m trying to get help pay for my inhalers. They’re very expensive for me.,1,Question,,FA,Valid,,,,,,
+"'- What is the cost of my medicine or vaccine? (ID: 1198, External: No, Clicks: 0)
+- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+fedb57a0f9192db24b99b3d672d41386,1,Session,Contactus,,,Unsuccessful,,,,21/01/2026,09:53:25
+I just got a Trellegy $0 copay card and when I went to use with with my pharmacy they got a message that said reject class claim disallowed what is that,1,Question,,RC,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Inaccurate,,,,,
+,1,Rating,,,,,,,,,
+ff0d826736762242d9eac9554f41d090,3,Session,Contactus,,,Success,,,,19/01/2026,14:15:44
+GSKforyou.com did not provide me with an affordable option. Please provide more options.,1,Question,,FA,Valid,,,,,,
+0,1,Answer,,,,No Answer,,,,,
+,1,Rating,,,,,,,,,
+"Hi, I do not have insurance and do not qualify for financial assistance.  Our household makes too much to qualify, but could not afford insurance (monthly cost was twice almost 3 times our mortgage). Do you have any Shingrix coupons. I have autoimmune.",1,Question,,FA,Valid,,,,,,
+"'- Does GSK provide financial assistance? (ID: 21, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+"I have visited GSKforyou.com.  It clearly is not for me.  I do not have insurance, medicaid- and income too high. What options might help me afford Shingrix?",1,Question,,FA,Valid,,,,,,
+0,1,Answer,,,,No Answer,,,,,
+,1,Rating,,,,,,,,,
+ff7a8e889566a132b6fd567c6882cbec,1,Session,Ventolin,,,Success,,,,20/01/2026,05:00:12
+how to buy inhaler,1,Question,,RC,Valid,,,,,,
+"'- Request to purchase medicine or vaccine directly (ID: 961, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+,1,Rating,,,,,,,,,
+ffb442310fa2baa353d0744c9e29b9e0,1,Session,Contactus,,,Success,,,,23/01/2026,12:33:29
+My coupon code is not working,1,Question,,RC,Valid,,,,,,
+"'- Questions about pharmacy processing a savings offer (ID: 1182, External: No, Clicks: 1)",1,Answer,,,,Accurate,,,,,
+Rating: Yes,1,Rating,,,,,,,,,
