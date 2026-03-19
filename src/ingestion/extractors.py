@@ -239,6 +239,7 @@ class Extractors:
             # Convert arrays to JSON strings for storage
             log_ids = detail.get('log_ids', [])
             ids_contents = detail.get('ids_contents', [])
+            data_keys = detail.get('data_keys', [])
             
             normalized.append({
                 'session_id': detail.get('session_id'),
@@ -247,7 +248,8 @@ class Extractors:
                 'environment': detail.get('environment'),
                 'date': detail.get('date'),
                 'log_ids': json.dumps(log_ids) if log_ids else None,
-                'ids_contents': json.dumps(ids_contents) if ids_contents else None
+                'ids_contents': json.dumps(ids_contents) if ids_contents else None,
+                'data_keys': json.dumps(data_keys) if data_keys else None,
             })
         
         logger.debug(f"Extracted {len(normalized)} session details")

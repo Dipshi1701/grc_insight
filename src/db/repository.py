@@ -247,6 +247,7 @@ class Repository:
                 d.get('date'),
                 d.get('log_ids'),
                 d.get('ids_contents'),
+                d.get('data_keys'),
                 week_key
             )
             for d in details
@@ -254,8 +255,8 @@ class Repository:
         
         self.cursor.executemany("""
             INSERT OR REPLACE INTO agg_session_details 
-            (session_id, source, duration, environment, date, log_ids, ids_contents, week_key)
-            VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+            (session_id, source, duration, environment, date, log_ids, ids_contents, data_keys, week_key)
+            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
         """, data)
         
         logger.info(f"Inserted {len(data)} session details")

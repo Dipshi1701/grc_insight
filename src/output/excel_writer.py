@@ -18,12 +18,13 @@ logger = get_logger(__name__)
 class ExcelWriter:
     """Writes report data to formatted Excel file."""
     
-    # Full 12 columns
+    # Full 13 columns (added User Type)
     COLUMNS = [
         "Row Labels",
         "Count of User question",
         "Labels",
         "Source",
+        "User Type",
         "Category",
         "Classification",
         "Quality",
@@ -40,6 +41,7 @@ class ExcelWriter:
         "Count of User question": 15,
         "Labels": 15,
         "Source": 20,
+        "User Type": 15,
         "Category": 15,
         "Classification": 15,
         "Quality": 15,
@@ -68,7 +70,7 @@ class ExcelWriter:
         rows: List[Dict[str, Any]],
         date_from: datetime,
         date_to: datetime,
-        report_num: int
+        custom_filename: str = None
     ) -> str:
         """
         Write report to Excel file.
@@ -77,7 +79,7 @@ class ExcelWriter:
             rows: List of report row dictionaries
             date_from: Start date
             date_to: End date
-            report_num: Report number
+            custom_filename: Custom filename to use (optional, will auto-generate if not provided)
             
         Returns:
             Path to generated file
@@ -99,7 +101,11 @@ class ExcelWriter:
         self._apply_styling(ws, len(rows))
         
         # Generate filename
-        filename = self._generate_filename(date_from, date_to, report_num)
+        if custom_filename:
+            filename = custom_filename
+        else:
+            # Default format: GRC Weekly report DDMMYYYY_DDMMYYYY.xlsx
+            filename = f"GRC Weekly report {date_from.strftime('%d%m%Y')}_{date_to.strftime('%d%m%Y')}.xlsx"
         filepath = self.output_dir / filename
         
         # Save workbook
@@ -142,29 +148,32 @@ class ExcelWriter:
             # Column 4: Source
             ws.cell(row=row_idx, column=4, value=row_data.get('source', ''))
             
-            # Column 5: Category (manual - leave empty)
-            ws.cell(row=row_idx, column=5, value=row_data.get('category', ''))
+            # Column 5: User Type (CONSUMER/HCP - only for Session rows)
+            ws.cell(row=row_idx, column=5, value=row_data.get('user_type', ''))
             
-            # Column 6: Classification (manual - leave empty)
-            ws.cell(row=row_idx, column=6, value=row_data.get('classification', ''))
+            # Column 6: Category (manual - leave empty)
+            ws.cell(row=row_idx, column=6, value=row_data.get('category', ''))
             
-            # Column 7: Quality (manual - leave empty)
-            ws.cell(row=row_idx, column=7, value=row_data.get('quality', ''))
+            # Column 7: Classification (manual - leave empty)
+            ws.cell(row=row_idx, column=7, value=row_data.get('classification', ''))
             
-            # Column 8: Answer available in the KB? (manual - leave empty)
-            ws.cell(row=row_idx, column=8, value=row_data.get('answer_available', ''))
+            # Column 8: Quality (manual - leave empty)
+            ws.cell(row=row_idx, column=8, value=row_data.get('quality', ''))
             
-            # Column 9: Escalated Sessions (manual - leave empty)
-            ws.cell(row=row_idx, column=9, value=row_data.get('escalated', ''))
+            # Column 9: Answer available in the KB? (manual - leave empty)
+            ws.cell(row=row_idx, column=9, value=row_data.get('answer_available', ''))
             
-            # Column 10: Ratings assessment (manual - leave empty)
-            ws.cell(row=row_idx, column=10, value=row_data.get('ratings_assessment', ''))
+            # Column 10: Escalated Sessions (manual - leave empty)
+            ws.cell(row=row_idx, column=10, value=row_data.get('escalated', ''))
             
-            # Column 11: Date (only for Session rows)
-            ws.cell(row=row_idx, column=11, value=row_data.get('date', ''))
+            # Column 11: Ratings assessment (manual - leave empty)
+            ws.cell(row=row_idx, column=11, value=row_data.get('ratings_assessment', ''))
             
-            # Column 12: Time (only for Session rows)
-            ws.cell(row=row_idx, column=12, value=row_data.get('time', ''))
+            # Column 12: Date (only for Session rows)
+            ws.cell(row=row_idx, column=12, value=row_data.get('date', ''))
+            
+            # Column 13: Time (only for Session rows)
+            ws.cell(row=row_idx, column=13, value=row_data.get('time', ''))
             
             # Apply blue background to session rows
             if row_data.get('label_type') == 'Session':

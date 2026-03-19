@@ -11,6 +11,7 @@ from src.utils.config_loader import ConfigLoader
 from src.api.auth import InbentaAuth
 from src.api.signing import RequestSigner
 from src.api.client import InbentaReportingClient
+from src.api.editor_client import EditorAuth, InbentaEditorClient
 from src.db.engine import DatabaseEngine
 from src.ingestion.pipeline import IngestionPipeline
 from src.transform.session_builder import SessionBuilder
@@ -18,6 +19,51 @@ from src.output.excel_writer import ExcelWriter
 
 
 logger = get_logger(__name__)
+
+
+def create_editor_client(config: ConfigLoader):
+    """
+    Create Editor API client if credentials are available.
+    
+    Args:
+        config: Configuration loader
+        
+    Returns:
+        InbentaEditorClient or None if credentials not configured
+    """
+    import os
+    
+    editor_key = os.getenv("INBENTA_EDITOR_API_KEY")
+    editor_secret = os.getenv("INBENTA_EDITOR_API_SECRET")
+    editor_personal_secret = os.getenv("INBENTA_EDITOR_PERSONAL_SECRET_KEY")
+    
+    if not all([editor_key, editor_secret, editor_personal_secret]):
+        logger.warning("Editor API credentials not configured, content descriptions will not be fetched")
+        logger.warning("Add INBENTA_EDITOR_API_KEY, INBENTA_EDITOR_API_SECRET, and INBENTA_EDITOR_PERSONAL_SECRET_KEY to .env")
+        return None
+    
+    try:
+        auth = EditorAuth(
+            auth_url="https://api.inbenta.io/v1/auth",
+            api_key=editor_key,
+            api_secret=editor_secret,
+            user_personal_secret=editor_personal_secret
+        )
+        
+        editor_base_url = os.getenv("INBENTA_EDITOR_BASE_URL", "https://chatbot-api-us.inbenta.io/editor/v1")
+        
+        client = InbentaEditorClient(
+            base_url=editor_base_url,
+            auth=auth,
+            rate_limit=100
+        )
+        
+        logger.info("Editor API client initialized successfully")
+        return client
+        
+    except Exception as e:
+        logger.error(f"Failed to initialize Editor API client: {e}")
+        return None
 
 
 @click.group()
@@ -80,7 +126,7 @@ def full_run(date_from: str, date_to: str, report_num: int):
         ingestion = IngestionPipeline(
             client=client,
             db_engine=db_engine,
-            excluded_source_patterns=filters_config.get('excluded_sources', []),
+            included_sources=filters_config.get('sources', []),
             environment=filters_config.get('environment', 'production')
         )
         
@@ -91,8 +137,11 @@ def full_run(date_from: str, date_to: str, report_num: int):
         logger.info("STEP 2: TRANSFORMATION")
         logger.info("=" * 80)
         
+        # Initialize Editor API client for content resolution
+        editor_client = create_editor_client(config)
+        
         with db_engine.get_connection_context() as conn:
-            builder = SessionBuilder(conn)
+            builder = SessionBuilder(conn, editor_client=editor_client)
             report_rows = builder.build_report_rows(week_key)
         
         logger.info(f"Built {len(report_rows)} report rows")
@@ -164,7 +213,7 @@ def ingest(date_from: str, date_to: str):
         ingestion = IngestionPipeline(
             client=client,
             db_engine=db_engine,
-            excluded_source_patterns=filters_config.get('excluded_sources', []),
+            included_sources=filters_config.get('sources', []),
             environment=filters_config.get('environment', 'production')
         )
         
@@ -190,9 +239,12 @@ def transform(week_key: str):
         # Initialize database
         db_engine = DatabaseEngine(config.get('database.path'))
         
+        # Initialize Editor API client for content resolution
+        editor_client = create_editor_client(config)
+        
         # Build report rows
         with db_engine.get_connection_context() as conn:
-            builder = SessionBuilder(conn)
+            builder = SessionBuilder(conn, editor_client=editor_client)
             report_rows = builder.build_report_rows(week_key)
         
         logger.info(f"Transformation completed: {len(report_rows)} rows")
@@ -221,9 +273,12 @@ def generate_report(week_key: str, report_num: int, date_from: str, date_to: str
         # Initialize database
         db_engine = DatabaseEngine(config.get('database.path'))
         
+        # Initialize Editor API client for content resolution
+        editor_client = create_editor_client(config)
+        
         # Build report rows
         with db_engine.get_connection_context() as conn:
-            builder = SessionBuilder(conn)
+            builder = SessionBuilder(conn, editor_client=editor_client)
             report_rows = builder.build_report_rows(week_key)
         
         # Generate Excel file

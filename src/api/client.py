@@ -11,7 +11,7 @@ from tenacity import retry, stop_after_attempt, wait_exponential, retry_if_excep
 from src.api.auth import InbentaAuth
 from src.api.signing import RequestSigner
 from src.utils.logging_config import get_logger
-from src.utils.date_utils import split_date_range
+from src.utils.date_utils import split_date_range, split_into_single_days
 
 logger = get_logger(__name__)
 
@@ -184,9 +184,10 @@ class InbentaReportingClient:
         max_per_page: int = 1000
     ) -> List[Dict[str, Any]]:
         """
-        Fetch all pages of data from a paginated endpoint.
+        Fetch data from endpoint.
         
-        NOTE: Inbenta API currently does not support offset/length pagination.
+        NOTE: Inbenta API does not support offset/length pagination.
+        Returns 403 Forbidden when these parameters are included.
         This method now just calls _simple_fetch for compatibility.
         
         Args:
@@ -200,6 +201,48 @@ class InbentaReportingClient:
         # Inbenta API returns 403 Forbidden when using offset/length
         # Use simple fetch instead
         return self._simple_fetch(endpoint, params)
+    
+    def _log_date_coverage(
+        self,
+        records: List[Dict[str, Any]],
+        date_from: datetime,
+        date_to: datetime,
+        record_type: str
+    ):
+        """
+        Log date coverage to verify all dates have data.
+        
+        Args:
+            records: Fetched records
+            date_from: Expected start date
+            date_to: Expected end date
+            record_type: Type of record (for logging)
+        """
+        if not records:
+            logger.warning(f"No {record_type} records fetched!")
+            return
+        
+        from collections import defaultdict
+        
+        # Count records by date
+        date_counts = defaultdict(int)
+        for record in records:
+            record_date = record.get('date', '')
+            if record_date:
+                # Extract just the date part (YYYY-MM-DD)
+                date_only = record_date[:10]
+                date_counts[date_only] += 1
+        
+        # Sort dates
+        sorted_dates = sorted(date_counts.keys())
+        
+        if sorted_dates:
+            logger.info(f"Date coverage for {record_type}: {len(sorted_dates)} unique dates")
+            logger.info(f"  First date: {sorted_dates[0]}")
+            logger.info(f"  Last date: {sorted_dates[-1]}")
+            logger.info(f"  Records per date:")
+            for date in sorted_dates:
+                logger.info(f"    {date}: {date_counts[date]:,} records")
     
     def get_event_sources(self) -> List[Dict[str, Any]]:
         """
@@ -233,7 +276,7 @@ class InbentaReportingClient:
         sources: Optional[List[str]] = None
     ) -> List[Dict[str, Any]]:
         """
-        Fetch aggregated session details with date windowing.
+        Fetch aggregated session details day-by-day (API limitation workaround).
         
         Args:
             date_from: Start date
@@ -245,27 +288,36 @@ class InbentaReportingClient:
             List of session detail dictionaries
         """
         logger.info(f"Fetching session details from {date_from} to {date_to}")
+        logger.info("Using day-by-day fetching due to API limitations")
         
         endpoint = "/v1/aggregates/session_details"
         
-        # Split into 3-day windows to avoid timeouts
-        windows = split_date_range(date_from, date_to, max_days=3)
+        # Split into individual days
+        days = split_into_single_days(date_from, date_to)
+        total_days = len(days)
         
         all_sessions = []
-        for window_start, window_end in windows:
+        for day_num, (day_start, day_end) in enumerate(days, 1):
+            logger.info(f"Fetching day {day_num}/{total_days}: {day_start.date()}")
+            
             params = {
-                "date_from": window_start.strftime("%Y-%m-%d"),
-                "date_to": window_end.strftime("%Y-%m-%d"),
+                "date_from": day_start.strftime("%Y-%m-%d"),
+                "date_to": day_end.strftime("%Y-%m-%d"),
                 # "environment": environment
             }
             
             if sources:
-                params["sources"] = json.dumps(sources)
+                params["source"] = json.dumps(sources)
             
-            sessions = self._paginated_fetch(endpoint, params)
+            sessions = self._simple_fetch(endpoint, params)
             all_sessions.extend(sessions)
             
-            logger.info(f"Window {window_start.date()} to {window_end.date()}: {len(sessions)} sessions")
+            logger.info(f"  Day {day_start.date()}: {len(sessions)} session details")
+        
+        logger.info(f"Total session details fetched: {len(all_sessions)}")
+        
+        # Log date coverage
+        self._log_date_coverage(all_sessions, date_from, date_to, "session_details")
         
         return all_sessions
     
@@ -276,7 +328,7 @@ class InbentaReportingClient:
         sources: Optional[List[str]] = None
     ) -> List[Dict[str, Any]]:
         """
-        Fetch user questions events with date windowing.
+        Fetch ALL user questions events day-by-day (API limitation workaround).
         
         Args:
             date_from: Start date
@@ -284,28 +336,38 @@ class InbentaReportingClient:
             sources: List of allowed sources
             
         Returns:
-            List of user question dictionaries
+            List of ALL user question dictionaries
         """
         logger.info(f"Fetching user questions from {date_from} to {date_to}")
+        logger.info("Using day-by-day fetching due to API limitations")
         
         endpoint = "/v1/events/user_questions"
         
-        windows = split_date_range(date_from, date_to, max_days=3)
+        # Split into individual days
+        days = split_into_single_days(date_from, date_to)
+        total_days = len(days)
         
         all_questions = []
-        for window_start, window_end in windows:
+        for day_num, (day_start, day_end) in enumerate(days, 1):
+            logger.info(f"Fetching day {day_num}/{total_days}: {day_start.date()}")
+            
             params = {
-                "date_from": window_start.strftime("%Y-%m-%d"),
-                "date_to": window_end.strftime("%Y-%m-%d")
+                "date_from": day_start.strftime("%Y-%m-%d"),
+                "date_to": day_end.strftime("%Y-%m-%d")
             }
             
             if sources:
-                params["sources"] = json.dumps(sources)
+                params["source"] = json.dumps(sources)
             
-            questions = self._paginated_fetch(endpoint, params)
+            questions = self._simple_fetch(endpoint, params)
             all_questions.extend(questions)
             
-            logger.info(f"Window {window_start.date()} to {window_end.date()}: {len(questions)} questions")
+            logger.info(f"  Day {day_start.date()}: {len(questions)} questions")
+        
+        logger.info(f"Total user questions fetched: {len(all_questions)}")
+        
+        # Log date coverage
+        self._log_date_coverage(all_questions, date_from, date_to, "user_questions")
         
         return all_questions
     
@@ -316,7 +378,10 @@ class InbentaReportingClient:
         sources: Optional[List[str]] = None
     ) -> List[Dict[str, Any]]:
         """
-        Fetch session events with date windowing.
+        Fetch ALL session events day-by-day (API limitation workaround).
+        
+        The Inbenta API has inconsistent behavior with multi-day ranges.
+        Fetching one day at a time ensures complete data coverage.
         
         Args:
             date_from: Start date
@@ -324,28 +389,39 @@ class InbentaReportingClient:
             sources: List of allowed sources
             
         Returns:
-            List of session event dictionaries
+            List of ALL session event dictionaries
         """
         logger.info(f"Fetching session events from {date_from} to {date_to}")
+        logger.info("Using day-by-day fetching due to API limitations")
         
         endpoint = "/v1/events/sessions"
         
-        windows = split_date_range(date_from, date_to, max_days=3)
+        # Split into individual days (API doesn't handle multi-day ranges well)
+        days = split_into_single_days(date_from, date_to)
+        total_days = len(days)
         
         all_sessions = []
-        for window_start, window_end in windows:
+        for day_num, (day_start, day_end) in enumerate(days, 1):
+            logger.info(f"Fetching day {day_num}/{total_days}: {day_start.date()}")
+            
             params = {
-                "date_from": window_start.strftime("%Y-%m-%d"),
-                "date_to": window_end.strftime("%Y-%m-%d")
+                "date_from": day_start.strftime("%Y-%m-%d"),
+                "date_to": day_end.strftime("%Y-%m-%d")
             }
             
             if sources:
-                params["sources"] = json.dumps(sources)
+                params["source"] = json.dumps(sources)
             
-            sessions = self._paginated_fetch(endpoint, params)
+            # Use simple fetch (no pagination - API doesn't support it)
+            sessions = self._simple_fetch(endpoint, params)
             all_sessions.extend(sessions)
             
-            logger.info(f"Window {window_start.date()} to {window_end.date()}: {len(sessions)} events")
+            logger.info(f"  Day {day_start.date()}: {len(sessions)} sessions")
+        
+        logger.info(f"Total sessions fetched: {len(all_sessions)}")
+        
+        # Log date coverage
+        self._log_date_coverage(all_sessions, date_from, date_to, "sessions")
         
         return all_sessions
     
@@ -356,7 +432,7 @@ class InbentaReportingClient:
         sources: Optional[List[str]] = None
     ) -> List[Dict[str, Any]]:
         """
-        Fetch click events with date windowing.
+        Fetch ALL click events day-by-day (API limitation workaround).
         
         Args:
             date_from: Start date
@@ -364,28 +440,38 @@ class InbentaReportingClient:
             sources: List of allowed sources
             
         Returns:
-            List of click event dictionaries
+            List of ALL click event dictionaries
         """
         logger.info(f"Fetching click events from {date_from} to {date_to}")
+        logger.info("Using day-by-day fetching due to API limitations")
         
         endpoint = "/v1/events/clicks"
         
-        windows = split_date_range(date_from, date_to, max_days=3)
+        # Split into individual days
+        days = split_into_single_days(date_from, date_to)
+        total_days = len(days)
         
         all_clicks = []
-        for window_start, window_end in windows:
+        for day_num, (day_start, day_end) in enumerate(days, 1):
+            logger.info(f"Fetching day {day_num}/{total_days}: {day_start.date()}")
+            
             params = {
-                "date_from": window_start.strftime("%Y-%m-%d"),
-                "date_to": window_end.strftime("%Y-%m-%d")
+                "date_from": day_start.strftime("%Y-%m-%d"),
+                "date_to": day_end.strftime("%Y-%m-%d")
             }
             
             if sources:
-                params["sources"] = json.dumps(sources)
+                params["source"] = json.dumps(sources)
             
-            clicks = self._paginated_fetch(endpoint, params)
+            clicks = self._simple_fetch(endpoint, params)
             all_clicks.extend(clicks)
             
-            logger.info(f"Window {window_start.date()} to {window_end.date()}: {len(clicks)} clicks")
+            logger.info(f"  Day {day_start.date()}: {len(clicks)} clicks")
+        
+        logger.info(f"Total clicks fetched: {len(all_clicks)}")
+        
+        # Log date coverage
+        self._log_date_coverage(all_clicks, date_from, date_to, "clicks")
         
         return all_clicks
     
@@ -396,7 +482,7 @@ class InbentaReportingClient:
         sources: Optional[List[str]] = None
     ) -> List[Dict[str, Any]]:
         """
-        Fetch rating events with date windowing.
+        Fetch ALL rating events day-by-day (API limitation workaround).
         
         Args:
             date_from: Start date
@@ -404,27 +490,37 @@ class InbentaReportingClient:
             sources: List of allowed sources
             
         Returns:
-            List of rating event dictionaries
+            List of ALL rating event dictionaries
         """
         logger.info(f"Fetching rating events from {date_from} to {date_to}")
+        logger.info("Using day-by-day fetching due to API limitations")
         
         endpoint = "/v1/events/ratings"
         
-        windows = split_date_range(date_from, date_to, max_days=3)
+        # Split into individual days
+        days = split_into_single_days(date_from, date_to)
+        total_days = len(days)
         
         all_ratings = []
-        for window_start, window_end in windows:
+        for day_num, (day_start, day_end) in enumerate(days, 1):
+            logger.info(f"Fetching day {day_num}/{total_days}: {day_start.date()}")
+            
             params = {
-                "date_from": window_start.strftime("%Y-%m-%d"),
-                "date_to": window_end.strftime("%Y-%m-%d")
+                "date_from": day_start.strftime("%Y-%m-%d"),
+                "date_to": day_end.strftime("%Y-%m-%d")
             }
             
             if sources:
-                params["sources"] = json.dumps(sources)
+                params["source"] = json.dumps(sources)
             
-            ratings = self._paginated_fetch(endpoint, params)
+            ratings = self._simple_fetch(endpoint, params)
             all_ratings.extend(ratings)
             
-            logger.info(f"Window {window_start.date()} to {window_end.date()}: {len(ratings)} ratings")
+            logger.info(f"  Day {day_start.date()}: {len(ratings)} ratings")
+        
+        logger.info(f"Total ratings fetched: {len(all_ratings)}")
+        
+        # Log date coverage
+        self._log_date_coverage(all_ratings, date_from, date_to, "ratings")
         
         return all_ratings

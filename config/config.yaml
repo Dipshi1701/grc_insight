@@ -8,12 +8,44 @@ api:
   token_refresh_buffer: 120  # seconds before expiry to refresh
   
 filters:
-  excluded_sources:
-    - dev
-    - viiv
-    - GSK_MEDICAL
+ā  sources:
+    - Advair
+    - anoro
+    - anorohcp
+    - Arexvy
+    - ArexvyHCP
+    - Arnuity
+    - Benlysta
+    - BenlystaHCP
+    - BexseroHCP
     - blenrep
-    - sotrovimab
+    - BlenrepHCP
+    - Blujepa
+    - BlujepaHCP
+    - Contactus
+    - Exdensur
+    - ExdensurHCP
+    - Flovent
+    - GSK Contact
+    - GSKFlu
+    - GSKOncology
+    - GSKPRO
+    - Incruse
+    - Jemperli
+    - JemperliHCP
+    - Menveohcp
+    - Mybreo
+    - Nucala
+    - nucalahcp
+    - Ojjaara
+    - OjjaaraHCP
+    - Shingrix
+    - ShingrixHCP
+    - Trelegy
+    - trelegyhcp
+    - Ventolin
+    - Zejula
+    - zejulahcp
   environment: production
   
 database:

@@ -118,3 +118,34 @@ def split_date_range(start_date: datetime, end_date: datetime, max_days: int = 3
         current_start = current_end + timedelta(days=1)
     
     return windows
+
+
+def split_into_single_days(start_date: datetime, end_date: datetime) -> list[Tuple[datetime, datetime]]:
+    """
+    Split date range into individual days for day-by-day API calls.
+    
+    This is needed because the Inbenta API has inconsistent behavior with multi-day ranges.
+    When querying a date range, it may only return data for some dates.
+    Querying one day at a time ensures complete data coverage.
+    
+    Args:
+        start_date: Start date
+        end_date: End date
+        
+    Returns:
+        List of (day_start, day_end) tuples where day_start == day_end
+        
+    Example:
+        Input: 2026-01-18 to 2026-01-20
+        Output: [(2026-01-18, 2026-01-18), 
+                 (2026-01-19, 2026-01-19),
+                 (2026-01-20, 2026-01-20)]
+    """
+    days = []
+    current = start_date
+    
+    while current <= end_date:
+        days.append((current, current))
+        current = current + timedelta(days=1)
+    
+    return days

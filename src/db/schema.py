@@ -104,6 +104,7 @@ CREATE TABLE IF NOT EXISTS agg_session_details (
     date TEXT,
     log_ids TEXT,
     ids_contents TEXT,
+    data_keys TEXT,
     week_key TEXT NOT NULL,
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
     UNIQUE(session_id, week_key)

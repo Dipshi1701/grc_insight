@@ -11,6 +11,7 @@ dependencies = [
     "pyyaml>=6.0",
     "tenacity>=8.2.0",
     "python-dotenv>=1.0.0",
+    "streamlit>=1.31.0",
 ]
 
 [project.optional-dependencies]
@@ -27,3 +28,18 @@ testpaths = ["tests"]
 python_files = ["test_*.py"]
 python_classes = ["Test*"]
 python_functions = ["test_*"]
+
+# Streamlit configuration
+[tool.streamlit]
+[tool.streamlit.general]
+email = ""
+
+[tool.streamlit.browser]
+gatherUsageStats = false
+serverAddress = "localhost"
+serverPort = 8501
+
+[tool.streamlit.server]
+headless = true
+port = 8501
+address = "localhost"

@@ -1,5 +1,6 @@
 """Core transformation logic to build hierarchical session report rows."""
 
+import json
 import logging
 import sqlite3
 from typing import List, Dict, Any, Tuple
@@ -15,16 +16,17 @@ logger = get_logger(__name__)
 class SessionBuilder:
     """Builds hierarchical session report rows from raw database data."""
     
-    def __init__(self, conn: sqlite3.Connection):
+    def __init__(self, conn: sqlite3.Connection, editor_client=None):
         """
         Initialize session builder.
         
         Args:
             conn: Database connection
+            editor_client: Optional Editor API client for content resolution
         """
         self.conn = conn
         self.source_filter = SourceFilter(conn)
-        self.content_resolver = ContentResolver(conn)
+        self.content_resolver = ContentResolver(conn, editor_client=editor_client)
     
     def build_report_rows(self, week_key: str) -> List[Dict[str, Any]]:
         """
@@ -74,14 +76,19 @@ class SessionBuilder:
             # Parse date/time for session row
             date_str, time_str = self._parse_datetime(session_date)
             
+            # Get user type (CONSUMER/HCP) from session events
+            user_type = self._get_usertype_for_session(session_id, week_key)
+            
             # Add session row (count = number of questions)
             all_rows.append({
                 'row_label': session_id,
                 'count': len(questions_in_session),
                 'label_type': 'Session',
                 'source': source,
+                'user_type': user_type,
                 'date': date_str,
-                'time': time_str
+                'time': time_str,
+                'escalated': session.get('escalated', ''),
             })
             
             # Group identical questions and count them
@@ -171,7 +178,7 @@ class SessionBuilder:
         
         if excluded_sources:
             query = f"""
-                SELECT session_id, source, date, log_ids, ids_contents
+                SELECT session_id, source, date, log_ids, ids_contents, data_keys
                 FROM agg_session_details
                 WHERE week_key = ? AND source NOT IN ({placeholders})
                 ORDER BY date, session_id
@@ -179,7 +186,7 @@ class SessionBuilder:
             cursor.execute(query, (week_key, *excluded_sources))
         else:
             query = """
-                SELECT session_id, source, date, log_ids, ids_contents
+                SELECT session_id, source, date, log_ids, ids_contents, data_keys
                 FROM agg_session_details
                 WHERE week_key = ?
                 ORDER BY date, session_id
@@ -188,15 +195,82 @@ class SessionBuilder:
         
         sessions = []
         for row in cursor.fetchall():
+            data_keys_raw = row[5] if len(row) > 5 else None
+            data_keys_list = []
+            if data_keys_raw:
+                try:
+                    data_keys_list = json.loads(data_keys_raw) if isinstance(data_keys_raw, str) else (data_keys_raw or [])
+                except (json.JSONDecodeError, TypeError):
+                    pass
+            
+            if "CHAT_ATTENDED" in data_keys_list:
+                escalated = "Yes/Attended"
+            elif "CHAT_NO_AGENTS" in data_keys_list:
+                escalated = "Yes"
+            else:
+                escalated = ""
+            
             sessions.append({
                 'session_id': row[0],
                 'source': row[1],
                 'date': row[2],
                 'log_ids': row[3],
-                'ids_contents': row[4]
+                'ids_contents': row[4],
+                'data_keys': data_keys_list,
+                'escalated': escalated,
             })
         
         return sessions
+    
+    def _get_usertype_for_session(self, session_id: str, week_key: str) -> str:
+        """
+        Get user type (CONSUMER/HCP) from session VARIABLES or ACTION_DATA_FIELD events.
+        
+        Args:
+            session_id: Session ID
+            week_key: Week key
+            
+        Returns:
+            "CONSUMER", "HCP", or "" if not found
+        """
+        import json
+        
+        cursor = self.conn.cursor()
+        
+        # Look for VARIABLES or ACTION_DATA_FIELD events
+        cursor.execute("""
+            SELECT value FROM raw_sessions
+            WHERE session_id = ? 
+              AND key IN ('VARIABLES', 'ACTION_DATA_FIELD')
+              AND week_key = ?
+            LIMIT 10
+        """, (session_id, week_key))
+        
+        for row in cursor.fetchall():
+            if not row[0]:
+                continue
+            
+            try:
+                # Parse value JSON
+                value_str = row[0]
+                if isinstance(value_str, str):
+                    data = json.loads(value_str)
+                else:
+                    data = value_str
+                
+                # Look for variables array
+                variables = data.get('variables', [])
+                for var in variables:
+                    if isinstance(var, dict):
+                        name = var.get('name', '').lower()
+                        if name == 'usertype':
+                            usertype_value = var.get('value', '').strip().upper()
+                            if usertype_value in ('CONSUMER', 'HCP'):
+                                return usertype_value
+            except (json.JSONDecodeError, TypeError, AttributeError):
+                continue
+        
+        return ""
     
     def _link_questions_to_sessions(
         self, 

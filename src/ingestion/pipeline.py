@@ -21,7 +21,7 @@ class IngestionPipeline:
         self,
         client: InbentaReportingClient,
         db_engine: DatabaseEngine,
-        excluded_source_patterns: list[str],
+        included_sources: list[str],
         environment: str = "production"
     ):
         """
@@ -30,12 +30,12 @@ class IngestionPipeline:
         Args:
             client: API client
             db_engine: Database engine
-            excluded_source_patterns: Patterns for excluding sources
+            included_sources: List of sources to include (filter at API level)
             environment: Environment filter (default: production)
         """
         self.client = client
         self.db_engine = db_engine
-        self.excluded_patterns = excluded_source_patterns
+        self.included_sources = included_sources
         self.environment = environment
         self.extractors = Extractors()
     
@@ -82,10 +82,12 @@ class IngestionPipeline:
                 logger.info("\nStep 1: Fetching reference data")
                 logger.info("-" * 80)
                 
-                # Skip metadata endpoints - they don't exist in Reporting API
-                # We'll get all data without source filtering
-                allowed_sources = None
-                logger.info("Skipping metadata endpoints (not available), fetching all sources")
+                # Use included sources from config for API filtering
+                allowed_sources = self.included_sources if self.included_sources else None
+                if allowed_sources:
+                    logger.info(f"Filtering API calls to {len(allowed_sources)} sources: {', '.join(allowed_sources[:5])}{'...' if len(allowed_sources) > 5 else ''}")
+                else:
+                    logger.info("No source filter specified, fetching all sources")
                 
                 # Step 2: Fetch raw event data (starting with user questions)
                 logger.info("\nStep 2: Fetching raw event data")
@@ -128,7 +130,20 @@ class IngestionPipeline:
                     sources=allowed_sources if allowed_sources else None
                 )
                 
-                sessions = self.extractors.extract_sessions(sessions_raw)
+                # Filter sessions to keep only those with log_ids matching user questions
+                logger.info("Filtering sessions by log_id...")
+                valid_log_ids = set(q['event_id'] for q in questions)  # questions from earlier
+                filtered_sessions = [
+                    s for s in sessions_raw 
+                    if s.get('log_id') and s.get('log_id') in valid_log_ids
+                ]
+                
+                logger.info(f"Sessions before filtering: {len(sessions_raw)}")
+                logger.info(f"Sessions after filtering: {len(filtered_sessions)}")
+                logger.info(f"Filtered out: {len(sessions_raw) - len(filtered_sessions)} sessions")
+                
+                # Extract and insert filtered sessions
+                sessions = self.extractors.extract_sessions(filtered_sessions)
                 repo.bulk_insert_sessions(sessions, week_key)
                 record_counts['raw_sessions'] = len(sessions)
                 

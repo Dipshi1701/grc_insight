@@ -83,6 +83,13 @@ class DatabaseEngine:
             for idx_stmt in CREATE_INDEXES:
                 cursor.execute(idx_stmt)
             
+            # Migration: add data_keys to agg_session_details if missing (for existing DBs)
+            cursor.execute("PRAGMA table_info(agg_session_details)")
+            columns = [row[1] for row in cursor.fetchall()]
+            if "data_keys" not in columns:
+                cursor.execute("ALTER TABLE agg_session_details ADD COLUMN data_keys TEXT")
+                logger.info("Added data_keys column to agg_session_details")
+            
             logger.info(f"Schema initialized: {len(ALL_TABLES)} tables, {len(CREATE_INDEXES)} indexes")
     
     def clear_week_data(self, week_key: str):
