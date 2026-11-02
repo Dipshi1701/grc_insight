@@ -1,6 +1,6 @@
 # GRC Weekly Report Pipeline
 
-Automated pipeline for generating GRC (Governance, Risk & Compliance) weekly reports from Inbenta API data.
+Automated pipeline for generating GRC weekly reports from Inbenta API data.
 
 ## Overview
 
